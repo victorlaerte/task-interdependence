@@ -115,3 +115,65 @@ Molleman, E**
 For instance, Rusbult and Van Lange (2003, p. 355) observed that "the concepts of dependence and power are inextricably related, in that to the extent that one person (A)is relatively more dependent, the other (B) is relatively more powerful"
 
 "Our results suggest that powerful team mem- bers do not always fully recognize helpful behavior by their more dependent colleagues and that this can lead to a decrease in interpersonal trust"
+
+**(2014) Team Microdynamics: Toward an Organizing Approach to Teamwork – Humphrey, Stephen E.
+Aime, Federico**
+
+"definition introduced by Kozlowski and Ilgen (2006, p. 79): a team is
+(a) two or more individuals who (b) socially interact (face-to-face or, increasingly, virtually) (c) possess one or more common goals; (d) are brought together to perform organizationally relevant tasks; (e) exhibit interdependencies with respect to workflow, goals, and outcomes; (f) have different roles and responsibilities; and (g) are together embedded in an encompassing organizational system, with boundaries and linkages to the broader system context and task environment."
+
+"the authors argued that the degree of symmetry in task dependence (i.e. there was mutual interdependence between two team members) impacts helping and trust"
+
+"Jehn, Rispens, and
+Thatcher (2010) and De Jong and Dirks (2012) examined the asymmetrical perceptions between team members on conflict and trust, respectively. In Jehn et al.'s study, they argued and found that differences in perceptions by team members on the level of conflict within the team affected the operation of the team. More specifically, they found that asymmetry on task conflict inhibited a team's creativity, as well as team member satisfaction and performance."
+
+"De Jong and Dirks argued that teams can only capitalize on the benefits of interpersonal trust when there is little asymmetry in perceptions between members. Having even one member perceiving a low level of trust will inhibit
+cooperation within the team, in term harming performance."
+
+**(2005) When Collective- and Self-Efficacy Affect Team Performance: The Role of Task Interdependence – Katz-Navon, T. Y.**
+
+"Teams are two or more individuals who work together toward the accomplishment of a common goal in organizations (Hackman, 1990)."
+
+"The lowest level of interdependence is when each team member makes a contribution to the team output without the need for direct interaction with other team members. In such cases, team performance is measured as the sum of individual performances. On the other side of the spectrum, when tasks are highly interdependent, team members must interact with each other to perform the team task, and the individual contributions cannot be separated out (Saavedra, Early, & Van Dyne, 1993)."
+
+"The level of task interdependence constrains the interactions
+among team members and the extent to which they need to coordinate their individual responses. Furthermore, it gives the team members an opportunity to inquire and learn about each other's skills and abilities (Kozlowski et al., 1999)"
+
+"Task interdependence affects the emergence of collective-
+efficacy as a group-level construct and also influences the relation- ships between self- and collective-efficacy and team performance (Gully, Incalcaterra, Joshi, & Beaubien, 2002)."
+
+"First, the current study vali- dated task interdependence as a necessary condition for the emergence of collective-efficacy as a group-level construct, distinct from self-efficacy. Second, it identified task interdependence as a structural variable that influenced the efficacy-performance relationship. Specifically, the current study demonstrated that under high task interdependence only collective- and not self-efficacy influenced team performance, whereas under lowtask interdependence only self- and not collective-efficacy affected team members' performance. Third, it demonstrated the spiral relationships between efficacy perceptions and performance."
+
+"Interdependence becomes an integral aspect of the multilevel approach because it transforms a collective of individuals into a team that transcends the sum of its individual members (Kozlowski et al., 1999)"
+
+"These findings suggest that as tasks become more interdependent, it is harder for a person to cogni- tively separate his or her own performance from that of the team and to attribute performance to his or her self-efficacy perceptions (Lindsley et al., 1995)"
+
+"Thus, task interdependence determined which type of effi- cacy perceptions becamesalient and influenced team performance."
+
+**(1983) Task interdependence and job design: test of a theory – Kiggundu, M N**
+
+"Drawing from the literature review cited above, Kiggundu (1981) de-
+fined task interdependence as the connectedness between jobs such that performance of one depends on the successful performance of the other."
+
+"Initiated task interdependence can be defined as the extent to which work flows from one particular job to one or more other jobs such that the successful performance of the latter de- pends on the initiating job. Received task interdependence, on the other hand, is the extent to which a person in a particular job is affected by the workflow from one or more other jobs."
+
+"Task interdependence was also conceptualized as a multidimensional concept with three subdimensions, namely (1) scope, (2) resources, and (3) criticality. Scope is the breadth of interconnectedness of a particular job with other jobs."
+
+"Resources is the degree to which the interdependence between two or more jobs involves receiving or giving resources necessary to do the job. These resources may include materials, tools, and equipment (Jenkins, Naddler, Lawler, & Cummann, 1975), information or instruction (Billings, Kilimoski, & Breaugh, 1977), and money, raw materials, personnel, or programs (Aiken & Hage, 1968)."
+
+"Criticality is the extent to which the interdependence between the focal job and one or more other jobs is crucial for the performance of the focal job."
+
+"Thomas (1957) found that when workers facilitate the work of others, they experience a sense of responsibility. This results from expectations specifying that the initiating workers perform their tasks so that the task performance of others is maximally facilitated and minimally hindered."
+
+"Several studies support the motivational potential of initiated task interdependence. Kahn et al. (1964) argue that interdependence creates some pressure that arouses in the focal person a psychological force of some magnitude and direction. Lawler, Porter, and Tannenbaum (1968) found that managers' affective responses were more positive for self- initiated interactions than for other-initiated interactions. Specifically, the managers reported self-initiated interactions to be more satisfying, valuable, interesting, and precise than other-initiated interactions."
+
+"Initiated task interdependence is hypothesized to be potentially motivating, but received task interdependence has the opposite effect."
+
+"increased received task interdependence leads to a decrease in autonomy, and therefore indirectly reduces motivation and work satisfaction."
+
+"This suggests that employees react positively to task interdependence when it involves providing resources to others and when such interdependence is critical for the successful performance of others' jobs."
+
+"The expected negative relationships between received task interdependence and the outcomes were not found."
+
+**(2000) Multilevel theory, research, and methods in organizations – Kozlowski, S. W. J.
+Klein, K. J.**
