@@ -24,7 +24,7 @@ Recife, PE, Brazil
 
 vlo2@cin.ufpe.br, ccbll@cin.ufpe.br, mdss@cin.ufpe.br, jgbl@cin.ufpe.br, fabio@cin.ufpe.br
 
-_Abstract_ – testing git diffaa
+_Abstract_ –
 
 Keywords-component:
 
