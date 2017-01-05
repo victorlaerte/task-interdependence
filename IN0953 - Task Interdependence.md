@@ -159,7 +159,7 @@ Para cumprir com os regulamentos relativos à ética na pesquisa, todos os membr
 
 ## D.A.Descrição do Contexto
 
-O estudo foi realizado no Brasil, em uma empresa criada em 2005, por meio de um convênio firmado entre um Centro de Informática de uma Instituição Federal de Ensino Superior e uma empresa multinacional do mercado de dispositivos móveis e eletroeletrônicos em geral. Tal empresa possui, aproximadamente, 80 empregados na sede do estudo.
+O estudo foi realizado no Brasil, em uma empresa criada em 2005, por meio de um convênio firmado entre um Centro de Informática de uma Instituição Federal de Ensino Superior e uma empresa multinacional do mercado de dispositivos móveis e eletroeletrônicos em geral. Tal empresa possui, aproximadamente, 80 empregados.
 
 Dentro desta empresa foi selecionada uma equipe, aleatoriamente. Tal equipe encontra-se distribuída, parte na sede da empresa e parte em outra cidade. É composta por dez pessoas entre desenvolvedores, testadores, designers, e líder de projeto.
 
