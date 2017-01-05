@@ -1,7 +1,5 @@
 **Rascunho**
 
-
-
 **(2016) Perceptions of task interdependence and functional leadership in schools – Kerry Barnett, John McCormick**
 
 "teams, whereby two or more people
@@ -177,3 +175,112 @@ fined task interdependence as the connectedness between jobs such that performan
 
 **(2000) Multilevel theory, research, and methods in organizations – Kozlowski, S. W. J.
 Klein, K. J.**
+
+"The macro perspective is rooted in its sociological origins. It assumes that there are substantial regularities in social behavior that transcend the apparent differences among social actors. Given a particular set of situational constraints and demographics, people will behave similarly. Therefore, it is possible to focus on aggregate or collective responses and to ignore individual variation. In contrast, the micro perspective is rooted in psychological origins. It assumes that there are variations in individual behavior, and that a focus on aggregates will mask important individual differences that are meaningful in their own right. Its focus is on variations among individual characteristics that affect individual reactions."
+
+"Multilevel theory building presents a substantial challenge to organizational scholars trained, for the most part, to "think micro" or to "think macro" but not to "think micro and macro"-not, that is, to "think multilevel." Our goal is to explain fundamental issues, synthesize and extend existing frameworks, and identify theoretical principles to guide the development and evaluation of multilevel models.
+"
+
+"By definition, multilevel models are designed to bridge micro and macro perspectives, specifying relationships between phenomena at higher and at lower levels of analysis (for example, individuals and groups, groups and organizations, and so on)."
+
+**(2009) TEAM TASK INTERDEPENDENCE PERCEPTIONS: TOWARD AN INTEGRATIVE MODEL OF TEAMWORK – Ledoux, Jared**
+
+"Team members who perceived higher levels of task interdependence and workflow performed better at both the individual and team levels of analysis."
+
+"Organizations use teams when the required work can be completed more effectively when individuals with different backgrounds and areas of expertise are needed, the workload is too large for one individual, and monitoring of others' work is imperative (Bunderson, 2003; Mathieu, Heffner, Goodwin, Salas, & Cannon-Bowers, 2000)"
+
+"While task interdependence refers to the objective degree to which group members are dependent upon one another to accomplish their work and is often referred to as a job characteristic (Campion, Medsker, & Higgs, 1993), task interdependence perceptions refer to subjective impressions of task interdependence."
+
+"Janz et al. (1997) define work teams as "an interdependent collection of individuals, each of whom shares responsibility for organizational outcomes" (pp. 877-878)."
+
+"Task interdependence is an objective job characteristic directly related to performance in teams and may serve to increase the motivation of team members to work together as a team (Gladstein, 1984; Guzzo & Shea, 1992; Janz et al., 1997)"
+
+"Task interdependence perceptions refer to a team member's impressions of the dependency upon
+one another, to some degree, within his or her team to accomplish the work and/or carry out the tasks of the team."
+
+"Thus, members develop perceptions concerning the nature of their dependence upon others to attain their goals."
+
+"Individual task interdependence perceptions refer to individual self-reported perceptions of the degree to which the tasks and overall job are team-based. Two task interdependence scales were constructed; one is measured at the job-level (job analysis), and one is measured at the task-level (task analysis)."
+
+"Homogeneity of task interdependence perceptions refers to the degree to which team members
+share similar perceptions of task interdependence."
+
+"this study shows that task interdependence and workflow perceptions were positively related to team communication and performance"
+
+**(2006) The Work Design Questionnaire (WDQ): Developing and validating a comprehensive measure for assessing job design and the nature of work. – Morgeson, Frederick P.
+Humphrey, Stephen E.**
+
+"Task variety. Task variety refers to the degree to which a job
+requires employees to perform a wide range of tasks on the job. As such, it is similar to notions of task enlargement discussed in the literature (Herzberg, 1968; Lawler, 1969). Jobs that involve the performance of a number of different work activities are likely to be more interesting and enjoyable to perform (Sims, Szilagyi, & Keller, 1976)."
+
+"Task identity. Task identity reflects the degree to which a job involves a whole piece of work, the results of which can be easily identified (Sims et al., 1976). Jobs that involve an intact task, such as providing a complete unit of service or putting together an entire product, are invariably more interesting to perform than jobs that involve only small parts of the task (Hackman & Oldham, 1980)."
+
+"Because work that involves com- plex tasks requires the use of numerous high-level skills and is more mentally demanding and challenging, it is likely to have positive motivational outcomes"
+
+"Interdependence. Interdependence reflects the degree to which
+the job depends on others and others depend on it to complete the work (Kiggundu, 1981). As such, interdependence reflects the "connectedness" of jobs to each other. Integral to this definition are two distinct forms of interdependence (Kiggundu, 1981): (a) the extent to which work flows from one job to other jobs (initiated interdependence) and (b) the extent to which a job is affected by work from other jobs (received interdependence)."
+
+**(2016) Building a theory of job rotation in software engineering from an instrumental case study – Santos, R.E.S.a
+Da Silva, F.Q.B.a
+De Magalhães, C.V.C.a
+Monteiro, C.V.F.b**
+
+"The study of job rotation in software engineering is motivated by the nature of the software development tasks that have more task variety and task identity than traditional jobs."
+
+"in software engineering job rotation decreases "task identity" and this seems to be due to the nature of software development in which projects are different from each other more than in other types of businesses."
+
+**(2016) Preliminary Findings about the Nature of Work in Software Engineering : An Exploratory Survey – Silva, Fabio Q B;
+França, César;
+Magalhães, Cleyton V C;
+Santos, Ronnie E S**
+
+"Recent research has argued that the knowledge- intensive nature of the software engineering work also affects the rationale beyond the motivation and satisfaction of the professionals in this field [18]"
+
+"the WDQ could be effective in identifying specific characteristics of the software engineering work, in comparison to other occupations."
+
+"Our research on job rotation in
+of software engineering work and areas for further research. in
+software engineering practice has found complex and potentially conflicting results [14]. This indicates that we need to improve our understanding of software engineering work characteristics to advance on designing managerial techniques to the practice [15]."
+
+**(2006) I need you, you need me: a model of initiated task interdependence – Taggar, Simon
+Haines III, Victor Y.**
+
+"why some team members have peers depend on them for material, information, and support (referred to as initiated task interdependence) more so than do others, ceteris paribus."
+
+"Whether team members perceived initiated task interdependence was explained by the degree to which members themselves depend on their peers (received interdependence), team members' belief in the value of teamwork, and team members' self-efficacy for teamwork. As predicted, both collectivism and past job performance were associated with self-efficacy for teamwork. The relationship between initiated interdependence and individual effectiveness was moderated by the team's collectivist orientation, such that team members were considered relatively effective by their peers when they were high in initiated task interdependence and when their team was composed of collectivists; or when they were low in initiated interdependence and when their team was composed of individualists."
+
+"Team member interdependence is a desired characteristic of high performing teams. It can positively affect the level of cooperation and collaboration within a team, conflict management, member satisfaction, and team performance (Van der Vegt and Van de Vliert, 2002)"
+
+"Johnson and Johnson (1989) concluded the benefits of interdependence included improved learning, achievement, cognitive complexity of thought, and interpersonal relations."
+
+"Differences in initiated task interdependence may exist between members in the same team, or between members of different teams, that complete identical tasks under similar conditions. Members"
+
+"Task interdependence is a characteristic of the work that is inherent in the task."
+
+"At the group level of analysis, task interdependence has been found to have a
+positive impact on group outcomes, including job satisfaction, team satisfaction, and group performance (e.g. Campion et al., 1996; Mohr, 1971; Van der Vegt et al., 2001). Similarly, at the group level, outcome interdependence has had positive effects on motivation, learning, achievement, cognitive complexity of thought, and interpersonal relations (e.g. Johnson and Johnson, 1989; Wageman, 1995)."
+
+"Van der Vegt et al. (2001) found that team member task interdependence was positively related to both job and team satisfaction only when the degree of goal interdependence in the work team was high. Van der Vegt and Van de Vliert (2002) conclude that the inconsistent findings in individual level studies may be due to the moderating role of variables at the group or organizational level. We build on Van der Vegt and Van de Vliert (2002) by examining the moderating role of a group collectivism composition."
+
+"Kiggundu (1983, p. 501) defined initiated task interdependence "as the degree to
+which work flows from a particular job to one or more other jobs".
+
+"Initiated task interdependence describes only one half of the relationship. To
+describe the other half, Kiggundu (1978, 1981, 1983) defined "received task interdependence". It is "the extent to which a person in a particular job is affected by the workflow from one or more other jobs""
+
+"The degree of task interdependence may vary from person-to-person (e.g. Brass, 1985; Kiggundu, 1983). Yet, little is know about what influences the degree to which one team member perceives that the activities of peers depend on him or her for material, information, and support."
+
+"Self-efficacy for teamwork reflects an individual's perceived capacity to work effectively in a situation requiring cooperation and coordination among individuals."
+
+"Collectivism reflects an individual's affective orientation toward working alone or
+with others. Individualists differ from collectivists in that they devalue team efforts in achievement-related contexts, value privacy, devalue the importance of teams for personal well-being, and prefer high degrees of personal autonomy and self-sufficiency (Dion and Dion, 1991; Wagner and Moch, 1986)."
+
+"Received task interdependence: Teamwork makes mutual helping, information sharing, and other cooperative behaviors more important to task completion. It also increases members' expectations of help and information sharing from others (Spilerman, 1971; Thomas, 1957). The motivation to directly affect the activities of peers may be explained by the notion of reciprocity in social exchange and by reciprocity norms (Adams, 1965)."
+
+"An often mentioned drawback of teamwork is the difficulty a member has in
+perceiving how his or her effort contributes to team performance, because team performance is also based on the effort of peers"
+
+"Although task interdependence is generally considered a positive outcome, the
+interdependent behavior exhibited by a team member may not always be perceived by peers as effective behavior."
+
+"Work team success depends on the ability of members to manage their interactions effectively (Morgeson et al., 2005)"
