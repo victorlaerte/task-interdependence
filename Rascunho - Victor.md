@@ -18,8 +18,7 @@ Perception Definition – fundo rosa
 
 "Task interdependence as the connectedness between jobs such that performance of one depends on the successful performance of the other."
 
-"Interdependence reflects the degree to which
-the job depends on others and others depend on it to complete the work. As such, interdependence reflects the "connectedness" of jobs to each other. Integral to this definition are two distinct forms of interdependence: (a) the extent to which work flows from one job to other jobs (initiated interdependence) and (b) the extent to which a job is affected by work from other jobs (received interdependence)."
+"Interdependence reflects the degree to which the job depends on others and others depend on it to complete the work. As such, interdependence reflects the "connectedness" of jobs to each other. Integral to this definition are two distinct forms of interdependence: (a) the extent to which work flows from one job to other jobs (initiated interdependence) and (b) the extent to which a job is affected by work from other jobs (received interdependence)."
 
 "Thomas (1957) found that when workers facilitate the work of others, they experience a sense of responsibility. This results from expectations specifying that the initiating workers perform their tasks so that the task performance of others is maximally facilitated and minimally hindered."
 
@@ -43,15 +42,13 @@ Interdependence influenced group performance strategies, which in turn affected 
 
 "The lowest level of interdependence is when each team member makes a contribution to the team output without the need for direct interaction with other team members. On the other hand, when tasks are highly interdependent, team members must interact with each other to perform the team task, and the individual contributions cannot be separated out."
 
-**(2000) Multilevel theory, research, and methods in organizations – Kozlowski, S. W. J.
-Klein, K. J.**
+**(2000) Multilevel theory, research, and methods in organizations – Kozlowski, S. W. J. Klein, K. J.**
 
 "The macro perspective is rooted in its sociological origins. It assumes that there are substantial regularities in social behavior that transcend the apparent differences among social actors. Given a particular set of situational constraints and demographics, people will behave similarly. Therefore, it is possible to focus on aggregate or collective responses and to ignore individual variation."
 
 "Interdependence becomes an integral aspect of the multilevel approach because it transforms a collective of individuals into a team that transcends the sum of its individual members"
 
-**(2001) Reflexion on shared cognition – Cannon-Bowers, Janis;
-Salas, Eduardo**
+**(2001) Reflexion on shared cognition – Cannon-Bowers, Janis; Salas, Eduardo**
 
 "Therefore, the concept of shared cognition can help us to explain what separates effective from ineffective teams by suggesting that in effective teams, members have similar or compatible knowledge, and that they use this knowledge to guide their (coordinated) behavior."
 
@@ -67,13 +64,11 @@ Salas, Eduardo**
 
 The current study demonstrated that under high task interdependence only collective- and not self-efficacy influenced team performance"
 
-**(2006) The Work Design Questionnaire (WDQ): Developing and validating a comprehensive measure for assessing job design and the nature of work. – Morgeson, Frederick P.
-Humphrey, Stephen E.**
+**(2006) The Work Design Questionnaire (WDQ): Developing and validating a comprehensive measure for assessing job design and the nature of work. – Morgeson, Frederick P. Humphrey, Stephen E.**
 
 "Because work that involves complex tasks requires the use of numerous high-level skills and is more mentally demanding and challenging, it is likely to have positive motivational outcomes"
 
-**(2006) I need you, you need me: a model of initiated task interdependence – Taggar, Simon
-Haines III, Victor Y.**
+**(2006) I need you, you need me: a model of initiated task interdependence – Taggar, Simon Haines III, Victor Y.**
 
 "Team member interdependence is a desired characteristic of high performing teams. It can positively affect the level of cooperation and collaboration within a team, conflict management, member satisfaction, and team performance (Van der Vegt and Van de Vliert, 2002)"
 
@@ -81,8 +76,7 @@ Haines III, Victor Y.**
 
 "Differences in initiated task interdependence may exist between members in the same team, or between members of different teams, that complete identical tasks under similar conditions."
 
-"Initiated task interdependence describes only one half of the relationship. To
-describe the other half, Kiggundu (1978, 1981, 1983) defined "received task interdependence". It is "the extent to which a person in a particular job is affected by the workflow from one or more other jobs""
+"Initiated task interdependence describes only one half of the relationship. To describe the other half, Kiggundu (1978, 1981, 1983) defined "received task interdependence". It is "the extent to which a person in a particular job is affected by the workflow from one or more other jobs""
 
 "Received task interdependence: Teamwork makes mutual helping, information sharing, and other cooperative behaviors more important to task completion. It also increases members' expectations of help and information sharing from others (Spilerman, 1971; Thomas, 1957). The motivation to directly affect the activities of peers may be explained by the notion of reciprocity in social exchange and by reciprocity norms (Adams, 1965)."
 
@@ -94,9 +88,7 @@ describe the other half, Kiggundu (1978, 1981, 1983) defined "received task inte
 
 "When team members adopt a prosocial motivation and perceive cooperative outcome interdependence, they handle differences of opinion and other types of conflict better, learn more, and perform more effectively"
 
-**(2007) The relationships among asymmetry in task dependence, perceived helping behavior, and trust – de Jong, S B
-Van der Veg, G S
-Molleman, E**
+**(2007) The relationships among asymmetry in task dependence, perceived helping behavior, and trust – de Jong, S B Van der Veg, G S Molleman, E**
 
 "Work teams consist of members who are at least moderately dependent on each other because they are required to work together and/or to rely on each other to reach their goals (Hackman, 1987)"
 
@@ -112,26 +104,21 @@ For instance, Rusbult and Van Lange (2003, p. 355) observed that "the concepts o
 
 "Task interdependence is an objective job characteristic directly related to performance in teams and may serve to increase the motivation of team members to work together as a team (Gladstein, 1984; Guzzo & Shea, 1992; Janz et al., 1997)"
 
-"Task interdependence perceptions refer to a team member's impressions of the dependency upon
-one another, to some degree, within his or her team to accomplish the work and/or carry out the tasks of the team."
+"Task interdependence perceptions refer to a team member's impressions of the dependency upon one another, to some degree, within his or her team to accomplish the work and/or carry out the tasks of the team."
 
 "Individual task interdependence perceptions refer to individual self-reported perceptions of the degree to which the tasks and overall job are team-based. Two task interdependence scales were constructed; one is measured at the job-level (job analysis), and one is measured at the task-level (task analysis)."
 
-"Homogeneity of task interdependence perceptions refers to the degree to which team members
-share similar perceptions of task interdependence."
+"Homogeneity of task interdependence perceptions refers to the degree to which team members share similar perceptions of task interdependence."
 
 "this study shows that task interdependence and workflow perceptions were positively related to team communication and performance"
 
-**(2012) Beyond Shared Perceptions of Trust and Monitoring in Teams: Implications of Asymmetry and Dissensus – De Jong, Bart A.
-Dirks, Kurt T.**
+**(2012) Beyond Shared Perceptions of Trust and Monitoring in Teams: Implications of Asymmetry and Dissensus – De Jong, Bart A. Dirks, Kurt T.**
 
 "Trust affects performance because individuals are more likely to share resources with coworkers they trust and more likely to receive more resources from coworkers who trust them."
 
-"Teams can only capitalize on the benefits of interpersonal trust when there is little asymmetry in perceptions between members. Having even one member perceiving a low level of trust will inhibit
-cooperation within the team, in term harming performance."
+"Teams can only capitalize on the benefits of interpersonal trust when there is little asymmetry in perceptions between members. Having even one member perceiving a low level of trust will inhibit cooperation within the team, in term harming performance."
 
-**(2013) Coordination breakdowns and their impact on development productivity and software failures – Cataldo, Marcelo;
-Herbsleb, James D.**
+**(2013) Coordination breakdowns and their impact on development productivity and software failures – Cataldo, Marcelo; Herbsleb, James D.**
 
 "the work on modular product designs has extensively examined the role of interdependencies among components of a product and has proposed approaches to minimize those dependencies"
 
@@ -143,8 +130,7 @@ Herbsleb, James D.**
 
 "Several researches have documented how the use of modular designs to reduce technical dependencies tends to lead development teams to assume an exaggerated degree of independence"
 
-**(2014) Team Microdynamics: Toward an Organizing Approach to Teamwork – Humphrey, Stephen E.
-Aime, Federico**
+**(2014) Team Microdynamics: Toward an Organizing Approach to Teamwork – Humphrey, Stephen E. Aime, Federico**
 
 "the authors argued that the degree of symmetry in task dependence (i.e. there was mutual interdependence between two team members) impacts helping and trust"
 
@@ -154,24 +140,16 @@ Aime, Federico**
 
 "Team tasks are not fixed, rather, they cycle episodically in terms of complexity and load they place on team member resources (cognitive, behavioral, and motivational) engaged as the team works to accomplish goals' (Kozlowski et al., 2009, p. 116)."
 
-**(2016) Building a theory of job rotation in software engineering from an instrumental case study – Santos, R.E.S.a
-Da Silva, F.Q.B.a
-De Magalhães, C.V.C.a
-Monteiro, C.V.F.b**
+**(2016) Building a theory of job rotation in software engineering from an instrumental case study – Santos, R.E.S.a Da Silva, F.Q.B.a De Magalhães, C.V.C.a Monteiro, C.V.F.b**
 
 "The study of job rotation in software engineering is motivated by the nature of the software development tasks that have more task variety and task identity than traditional jobs."
 
 "in software engineering job rotation decreases "task identity" and this seems to be due to the nature of software development in which projects are different from each other more than in other types of businesses."
 
-**(2016) Preliminary Findings about the Nature of Work in Software Engineering : An Exploratory Survey – Silva, Fabio Q B;
-França, César;
-Magalhães, Cleyton V C;
-Santos, Ronnie E S**
+**(2016) Preliminary Findings about the Nature of Work in Software Engineering : An Exploratory Survey – Silva, Fabio Q B; França, César; Magalhães, Cleyton V C; Santos, Ronnie E S**
 
-"Recent research has argued that the knowledge- intensive nature of the software engineering work also affects the rationale beyond the motivation and satisfaction of the professionals in this field [18]"_Wallgren, L. G.; Hanse, J. J. 2007. Job characteristics, motivators and stress among information technology consultants: A structural equation modeling approach. International Journal of Industrial Ergonomics, p. 51-59._
+"Recent research has argued that the knowledge- intensive nature of the software engineering work also affects the rationale beyond the motivation and satisfaction of the professionals in this field [18]" _Wallgren, L. G.; Hanse, J. J. 2007. Job characteristics, motivators and stress among information technology consultants: A structural equation modeling approach. International Journal of Industrial Ergonomics, p. 51-59._
 
 "the WDQ could be effective in identifying specific characteristics of the software engineering work, in comparison to other occupations."
 
-"Our research on job rotation in
-of software engineering work and areas for further research. in
-software engineering practice has found complex and potentially conflicting results [14]. This indicates that we need to improve our understanding of software engineering work characteristics to advance on designing managerial techniques to the practice [15]."
+"Our research on job rotation in of software engineering work and areas for further research. in software engineering practice has found complex and potentially conflicting results [14]. This indicates that we need to improve our understanding of software engineering work characteristics to advance on designing managerial techniques to the practice [15]."
