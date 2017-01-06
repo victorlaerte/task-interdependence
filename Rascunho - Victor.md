@@ -8,7 +8,7 @@ Performance and Interdependence - azul
 
 Symmetry and Asymmetry – fundo amarelo
 
-Specifics of software engineering – fundo cinza
+Specifics of software engineering – fundo turquesa
 
 Perception Definition – fundo rosa
 
