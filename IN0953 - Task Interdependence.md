@@ -30,51 +30,47 @@ Keywords-component:
 
 # I.Introdução
 
-Começar introdução explicando os conceitos de Interdependência e como isso afeta a performance.
+Desde que Hackman and Oldham's (1976, 1980) elaboraram a teoria de job design, focada na experiência dos trabalhadores e em práticas individuais do trabalho, muitos outros autores também passaram a incluir e dar ênfase às interações sociais e aspectos de interação dos trabalhadores em seu ambiente de trabalho. COLOCAR SILVA, KINGUDU, E OUTROS. Com a evolução tecnológica e o surgimento de novas profissões e campos de estudo, como a Engenharia de Software, diversos novos pesquisadores identificaram a necessidade de trabalhos voltados para este campo, pois a variedade de tarefas e complexidade na Engenharia de Software são maiores do que nos trabalhos tradicionais. SILVA 2016, SILVA 2016 outro
 
-Desde que Hackman and Oldham's (1976, 1980) elaboraram a teoria de job design, focada na experiência dos trabalhadores e em práticas individuais do trabalho, muitos outros autores também passaram a incluir e dar ênfase às interações sociais e aspectos de interação dos trabalhadores em seu ambiente de trabalho. COLOCAR SILVA, KINGUDU, E OUTROS. Com a evolução tecnológica e o surgimento de novas profissões e campos de estudo, como a Engenharia de Software, diversos novos pesquisadores identificaram a necessidade de trabalhos voltados para este campo, pois a variedade de tarefas, complexidade e identidate da tarefa na Engenharia de Software são maiores do que nos trabalhos tradicionais. SILVA 2016, SILVA 2016 outro
+Em diversos times de alta performance os sistemas e tarefas são complexos ao ponto de que é muito difícil ou até impossível que um único membro do time consiga ter todo o conhecimento e habilidade necessária para completer determinados trabalhos. 2001 Cannon-Bowers. Diante desse cenário a Interdependência de Tarefas (IT) surge como uma característica do trabalho diretamente relacionada à performance do time e até mesmo como fator motivador.
 
-Em diversos times de alta performance os sistemas e tarefas são complexos ao ponto de que é muito difícil ou até impossível que um único membro do time consiga ter todo o conhecimento e habilidades necessárias para realizar determinadas tarefas. 2001 Cannon-Bowers. Diante desse cenário a Interdependência de Tarefas surge como uma característica do trabalho diretamente reliacionada à performance do time e até mesmo como motivador.
+A IT é reconhecida como um dos principais fatores de influência na performance do time. REFERENCIAS DE PERFORM. Kiggundu define IT como o grau que uma tarefa depende de outras e outras dependem dela, para serem completadas (Kiggundu, 1983).
 
-A interdependência de tarefas surge na teoria do job design como um dos principais fatores de influência na performance do time. Kiggundu define interdependência como o grau em que um trabalho depende de outro para ser considerado completo.
+Pesquisas mais recentes sobre teoria do job design na engenharia de software mostraram resultados complexos e potencialmente conflitantes com pesquisas em outras profissões. TRABALHO DE FABIO Dessa forma este trabalho tem como principal objetivo preencher o gap na literatura sobre interdependência de tarefas no campo da engenharia de software e fornecer um visão mais elaborada através de uma análise puramente qualitativa do fenômeno estudado. REFERENCIA MERRIAN
 
- Justificar a pesquisa apresentando os resul
+Nesta pesquisa, nós buscamos entender como os indivíduos de uma equipe de desenvolvimento de software percebem a interdependência de tarefas e seus impactos na dinâmica do trabalho da equipe
 
-tados controversos da pesquisa de Fábio em relação às outras profissões, além de falar sobre a escasses de trabalhos qualitativos na area de ES.
+Através da percepção de interdependência entre os membros da equipe esta pequisa é fundamentada pela seguinte pergunta.
 
-Depois apresentar os objetivos e perguntas de pesquisa
-
-Qual a percepção dos indivíduos de uma equipe de desenvolvimento de software (implementadores
+_RQ __1__
 #
 [ANNOTATION:
 
 
 BY 'Victor Laerte de Oliveira'
-ON '2017-01-04T21:29:00'VL
-NOTE: 'Implementadores não ficou estranho não? Por mim a gente deixaria essa observação de implementadores somente na hora em que descrevemos a amostra (Method) como tu já fez']
-) sobre a interdependência de tarefas e seus impactos na dinâmica do trabalho da equipe?
+ON '2017-01-06T16:31:00'VL
+NOTE: 'Será que devemos usar essa notação? Acho que fica mais fácil de apresentar os resultados assim.']
+__ - Qual a percepção dos indivíduos de uma equipe de desenvolvimento de software sobre a interdependência de tarefas e seus impactos na dinâmica do trabalho da equipe?_
 
-Questões secundárias:
+Guiados pela questão acima, outras questões relacionadas, porém não menos importantes, surgem:
 
-Quais são os fatores que afetam a interdependência de tarefa, no trabalho em equipe?
-
-Como a interdependência afeta o trabalho em equipe (dinâmica da equipe)?
-
-Como a interdependência afeta os resultados da equipe?
-
-Como a equipe se sente com isso? (impacto no resultado e na dinâmica)
-
-Existe simetria na percepção sobre interdependência de tarefas entre os membros da equipe?
+- .Quais são os fatores que afetam a interdependência de tarefa, no trabalho em equipe?
+- .Como a interdependência afeta o trabalho em equipe (dinâmica da equipe)?
+- .Como a interdependência afeta os resultados da equipe?
+- .Como a equipe se sente com isso? (impacto no resultado e na dinâmica)
+-
+._Existe simetria na percepção sobre interdependência de tarefas entre os membros da equipe __?__
 #
 [ANNOTATION:
 
 
 BY 'Victor Laerte de Oliveira'
-ON '2017-01-05T00:19:00'VL
-NOTE: 'Eu não consegui notar onde a gente falou de simetria =/'
+ON '2017-01-06T17:11:00'VL
+NOTE: 'Eu não consegui notar onde a gente falou de simetria =/. Vai continuar aqui na pesquisa?'
 NOTE: '']
+_
 
-Explicar como o trabalho será dividido explicando um pouco das seções seguintes
+O restante desse artigo é organizado da seguinte forma. Na seção II, nós apresentamos um visão geral e trabalhos relacionados. Na seção III, nós descrevemos os métodos de pesquisa e o caso de estudado. Na seção IV são apresentados os resultados e na seção V é feita uma discussão desses resultados com suporte na literatura além de apresentar possíveis ameaças à validade, implicações para a prática e trabalhos futuros. Finalmente, as conclusões são apresentadas na seção VI.
 
 # II.Background
 
@@ -86,15 +82,7 @@ Explicar como o trabalho será dividido explicando um pouco das seções seguint
 
 Inserir referência do guia Guidelines for conducting and reporting case study research in software engineering (Per Runeson & Martin Höst)[2]
 
-Nesta pesquisa, nós buscamos entender como os indivíduos de uma equipe de desenvolvimento de software (implementadores) percebem a interdependência de tarefas e seus impactos na dinâmica do trabalho da equipe. Para tanto,
-#
-[ANNOTATION:
-
-
-BY 'Victor Laerte de Oliveira'
-ON '2017-01-04T21:26:00'VL
-NOTE: 'Trazer esse trecho para a introção e adicionar: Para responder as questões propostas e analisar o fenômeno investigado, este trabalho utilizou como base...']
-e alinhado a natureza da nossa pergunta de pesquisa, bem como ao fenômeno investigado, este trabalho utilizou como base o framework proposto por Sjøberg, Dybå, Anda e Hannay [1] para a construção de teorias na Engenharia de Software. Neste contexto, os autores sugerem que a descrição da teoria seja dividida em quatro partes: construtos (elementos básicos da teoria), proposições (como os construtos interagem/se relacionam), explicações (porque as relações foram especificadas) e escopo (universo no qual a teoria pode vir a ser aplicável)[1] (Figura 1).
+Para entender o fenômeno investigado, bem como responder a pergunta de pesquisa, este trabalho utilizou como base o framework proposto por Sjøberg, Dybå, Anda e Hannay [1] para a construção de teorias na Engenharia de Software. Neste contexto, os autores sugerem que a descrição da teoria seja dividida em quatro partes: construtos (elementos básicos da teoria), proposições (como os construtos interagem/se relacionam), explicações (porque as relações foram especificadas) e escopo (universo no qual a teoria pode vir a ser aplicável)[1] (Figura 1).
 
 Figura 1. Research Process.
 
@@ -350,7 +338,7 @@ Atuando de maneira próxima às Relações Interpessoais, o **Sentimento de Pert
 
 _ "__Me sinto  muito parte do time(...)"._
 
-_" __Me sinto totalmente parte da equipe (...). A gente tem total liberdade de opinar, de dar sugestão, receber crítica. Receber__ feedbacks positivos e negativos. Totalmente integrado nesse grupo. Não tenho nenhuma limitação, tenho muita liberdade"._
+_"__Me sinto totalmente parte da equipe (...). A gente tem total liberdade de opinar, de dar sugestão, receber crítica. Receber feedbacks positivos e negativos. Totalmente integrado nesse grupo. Não tenho nenhuma limitação, tenho muita liberdade"._
 
 As **Competências e Habilidades Individuais (CI)** dos membros da equipe de desenvolvimento moderam as ações de ajuda mútua e redundância de conhecimento. Esse construto é atribuído à dinâmica interna da equipe.
 
