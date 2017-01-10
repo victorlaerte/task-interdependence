@@ -130,7 +130,7 @@ For instance, Rusbult and Van Lange (2003, p. 355) observed that "the concepts o
 
 "Several researches have documented how the use of modular designs to reduce technical dependencies tends to lead development teams to assume an exaggerated degree of independence"
 
-**(2014) Team M**** icrodynamics: Toward an Organizing Approach to Teamwork – Humphrey, Stephen E. Aime, Federico**
+**(2014) Team Microdynamics: Toward an Organizing Approach to Teamwork – Humphrey, Stephen E. Aime, Federico**
 
 "the authors argued that the degree of symmetry in task dependence (i.e. there was mutual interdependence between two team members) impacts helping and trust"
 
