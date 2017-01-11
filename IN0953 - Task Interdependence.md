@@ -30,15 +30,13 @@ Keywords-component:
 
 # I.Introdução
 
-Desde que Hackman and Oldham's (1976, 1980) elaboraram a teoria de _job design_, focada na experiência dos trabalhadores e em práticas individuais do trabalho, muitos outros autores também passaram a incluir e dar ênfase às interações sociais e aspectos de interação dos trabalhadores. COLOCAR SILVA, KINGUDU, E OUTROS. Com a evolução tecnológica e o surgimento de novas profissões e campos de estudo, como a Engenharia de Software, alguns pesquisadores identificaram a necessidade de trabalhos voltados para este campo, pois a variedade de tarefas e complexidade na Engenharia de Software são maiores do que nos trabalhos tradicionais. SILVA 2016, SILVA 2016 outro
+Desde que Hackman e Oldham [21, 22] elaboraram a teoria de _job design_, focada na experiência dos trabalhadores e em práticas individuais do trabalho, muitos outros autores também passaram a incluir e dar ênfase às interações sociais e aspectos de interação dos trabalhadores [23]. Com a evolução tecnológica e o surgimento de novas profissões e campos de estudo, como a Engenharia de Software, alguns pesquisadores identificaram a necessidade de trabalhos voltados para este campo, pois a variedade de tarefas e complexidade na Engenharia de Software são maiores do que nos trabalhos tradicionais [24, 25].
 
-Em diversos times de alta performance os sistemas e tarefas são complexos ao ponto de que é muito difícil ou até impossível que um único membro do time consiga ter todo o conhecimento e habilidade necessária para completar determinados trabalhos. 2001 Cannon-Bowers. Diante deste cenário a Interdependência de Tarefas (IT) surge como uma característica do trabalho diretamente relacionada à performance do time e até mesmo como fator motivador REFERENCIAS PERFORM, pois segundo Thomas (1957) quando os trabalhadores facilitam o trabalho dos outros, eles experimentam um senso de responsabilidade e isso resulta com que os trabalhadores realizem suas tarefas para que o desempenho das tarefas de outros seja maximamente facilitado e minimamente impedido.
+Em diversos times de alta performance os sistemas e tarefas são complexos ao ponto de que é muito difícil ou até impossível que um único membro do time consiga ter todo o conhecimento e habilidade necessária para completar determinados trabalhos [9]. Diante deste cenário a Interdependência de Tarefas (IT) surge como uma característica do trabalho diretamente relacionada à performance do time e até mesmo como fator motivador [9, 27, 28, 29], pois segundo Thomas [26] quando os trabalhadores facilitam o trabalho dos outros, eles experimentam um senso de responsabilidade e isso resulta com que os trabalhadores realizem suas tarefas para que o desempenho das tarefas de outros seja maximamente facilitado e minimamente impedido.
 
-Pesquisas mais recentes sobre teoria do _job design_ na engenharia de software mostraram resultados complexos e potencialmente conflitantes com pesquisas em outras profissões. TRABALHO DE FABIO Dessa forma este trabalho tem como principal objetivo preencher a lacuna na literatura sobre interdependência de tarefas no campo da engenharia de software e fornecer uma visão mais elaborada através de uma análise puramente qualitativa do fenômeno estudado. REFERENCIA MERRIAN
+Pesquisas mais recentes sobre teoria do _job design_ na engenharia de software mostraram resultados complexos e potencialmente conflitantes com pesquisas em outras profissões [25]. Dessa forma este trabalho tem como principal objetivo preencher a lacuna na literatura sobre interdependência de tarefas no campo da engenharia de software e fornecer uma visão mais elaborada através de uma análise puramente qualitativa do fenômeno estudado [14].
 
-Nesta pesquisa, nós buscamos entender como os indivíduos de uma equipe de desenvolvimento de software percebem a IT e seus impactos na dinâmica do trabalho da equipe
-
-Através da percepção de interdependência entre os membros da equipe esta pesquisa é fundamentada pela seguinte pergunta.
+Nesta pesquisa, nós buscamos entender como os indivíduos de uma equipe de engenharia de software percebem a IT e seus impactos na dinâmica do trabalho da equipe através de suas percepções de interdependência. Esta pesquisa é fundamentada pela seguinte pergunta.
 
 _RQ __1__
 #
@@ -84,24 +82,24 @@ Esta seção apresenta as definições de conceitos sobre interdependência de t
 
 ## B.A.Interdependência de Tarefas
 
-A literatura apresenta diversas definições para o conceito de interdependência, muitas delas baseadas na teoria da interdependência de tarefas criada por Kiggundu REF.
+A literatura apresenta diversas definições para o conceito de interdependência, muitas delas baseadas na teoria da interdependência de tarefas criada por Kiggundu [23].
 
 O mesmo, define a interdependência de tarefas como o grau de conectividade com que o sucesso de um trabalho depende do sucesso de outros para ser bem-sucedido.
 
-A IT pode ser dividida em duas formas distintas Kiggundu REF:
+A IT pode ser dividida em duas formas distintas [23]:
 
 - .Interdependência iniciada: É quando o trabalho de um indivíduo afeta o trabalho de outro (e.g. o resultado do trabalho do indivíduo A é entrada para o trabalho do indivíduo B).
 - .Interdependência recebida: É quando o trabalho de um indivíduo é afetado pelo trabalho de outros (e.g. o trabalho de A depende do resultado do trabalho de B).
 
-Alguns trabalhos sugerem que empregados reagem mais positivamente à interdependência iniciada do que a recebida, pois enquanto a primeira aumenta o nível de cooperação, ajuda mútua e comportamento colaborativo, a última tende a diminuir o nível de autonomia impactando negativamente na motivação e satisfação. Ref KING, 2006 TAGGAR, (Spilerman, 1971; Thomas, 1957).Adams REF(1965) acredita que isso pode ser explicado pela noção de reciprocidade na troca social e pelas normas de reciprocidade.
+Alguns trabalhos sugerem que empregados reagem mais positivamente à interdependência iniciada do que a recebida, pois enquanto a primeira aumenta o nível de cooperação, ajuda mútua e comportamento colaborativo, a última tende a diminuir o nível de autonomia impactando negativamente na motivação e satisfação [10, 23, 26, 30]. Adams [31] acredita que isso pode ser explicado pelas normas e noção de reciprocidade na troca social.
 
-Podem existir diferenças na interdependência de tarefas entre os membros da mesma equipe ou entre membros de diferentes times, grupos ou equipes. 2006 TAGGAR. Saavedra et. al. [REF(1993)] define grupo como uma coleção de indivíduos que têm relações entre si que os tornam interdependentes a um grau significativo. Semelhante à Hackman [REF1990] [REF(2005) Katz-Navon]que diz que times são dois ou mais indivíduos que trabalham juntos para a realização de um objetivo comum nas organizações.
+Podem existir diferenças na interdependência de tarefas entre os membros da mesma equipe ou entre membros de diferentes times ou grupos [10]. Saavedra et. al. [27] define grupo como uma coleção de indivíduos que têm relações entre si que os tornam interdependentes a um grau significativo. Semelhante à Hackman [32] que diz que times são dois ou mais indivíduos que trabalham juntos para a realização de um objetivo comum nas organizações.
 
-Equipes geralmente são consideradas eficazes porque podem reunir diversas habilidades e experiências necessárias para que os membros atinjam os objetivos pretendidos. [2006 TAGGAR REF Morgeson et al., 2005]. Para isso os times precisam interagir e compartilhar informações e conhecimento, dessa forma a interdependência dos membros da equipe é uma característica desejada das equipes de alto desempenho, pois ela pode afetar positivamente o nível de cooperação e colaboração, o gerenciamento de conflitos, a satisfação dos membros e o desempenho da equipe, transcendendo a soma das habilidades individuais de seus membros. [REF (Van der Vegt and Van de Vliert, 2002) REF 2006 TAGGAR REF (2000) Kozlowski].
+Equipes geralmente são consideradas eficazes porque podem reunir diversas habilidades e experiências necessárias para que os membros atinjam os objetivos pretendidos [33]. Para isso os times precisam interagir e compartilhar informações e conhecimento, dessa forma a interdependência dos membros da equipe é uma característica desejada das equipes de alto desempenho, pois ela pode afetar positivamente o nível de cooperação e colaboração, o gerenciamento de conflitos, a satisfação dos membros e o desempenho da equipe, transcendendo a soma das habilidades individuais de seus membros [10, 34, 19].
 
-Johnson e Johnson (REF 1989) concluíram que os benefícios da interdependência incluíam melhor aprendizagem, realização, complexidade cognitiva do pensamento e relações interpessoais. [REF JOHNSON, REF 2006 Taggar]. Semelhante, os achados de de Dren & Carsten apontam que quando membros da equipe adotam uma motivação pró-social e percebem a interdependência de resultados cooperativos, eles lidam melhor com diferenças de opinião e outros tipos de conflito, aprendem mais e executam com mais eficiência. [REF DE DREU]. Entretanto, outros estudos mostraram que esses benefícios foram mais notados em times com alto nível de interdependência. (i.e. somente quando há um elevado grau de interdependência entre os indivíduos de um time é que os benefícios da IT são mais significativos) [REF Saavedra, REF 2005 Katz-Navon].
+Johnson e Johnson [11] concluíram que os benefícios da interdependência incluíam melhor aprendizagem, realização, complexidade cognitiva do pensamento e relações interpessoais [10, 11]. Semelhante, os achados de De Dreu [35] apontam que quando membros da equipe adotam uma motivação pró-social e percebem a interdependência de resultados cooperativos, eles lidam melhor com diferenças de opinião e outros tipos de conflito, aprendem mais e executam com mais eficiência. Entretanto, outros estudos mostraram que esses benefícios foram mais notados em times com alto nível de interdependência (i.e. somente quando há um elevado grau de interdependência entre os indivíduos de um time é que os benefícios da IT são mais significativos) [8, 27].
 
-Apesar da literatura relacionar diretamente a interdependência de tarefas com a performance do time, é importante ressaltar que os autores vêm sempre investigando e descobrindo cada vez mais variáveis que podem mediar essa relação. Ledoux et. al., [REF Ledoux 2009] por exemplo, mostrou que além da interdependência, as percepções do fluxo de trabalho também estão positivamente relacionadas à comunicação e ao desempenho da equipe. De Jong et. al. [REF DEJONG  2012] vai além e afirma que à confiança entre os indivíduos envolvidos na interdependência é fator determinante na performance pois os indivíduos são mais propensos a compartilhar recursos com colegas de trabalho que eles confiam e mais propensos a receber mais recursos de colegas de trabalho que confiam neles. Cannon et. al. [REF 2001] ainda sugere que a cognição compartilhada pode nos ajudar a explicar o que separa uma equipe eficaz de equipes ineficazes, pois em equipes eficazes, os membros têm conhecimento similar ou compatível, e que eles usam esse conhecimento para orientar o seu comportamento.
+Apesar da literatura relacionar diretamente a interdependência de tarefas com a performance do time, é importante ressaltar que os autores vêm investigando e descobrindo cada vez mais variáveis que podem mediar essa relação. Ledoux, [28] por exemplo, mostrou que além da interdependência, as percepções do fluxo de trabalho também estão positivamente relacionadas à comunicação e ao desempenho da equipe. De Jong et. al. [29] vai além e afirma que à confiança entre os indivíduos envolvidos na interdependência é fator determinante na performance pois os indivíduos são mais propensos a compartilhar recursos com colegas de trabalho que eles confiam e mais propensos a receber mais recursos de colegas de trabalho que confiam neles. Cannon-Bowers e Salas [9] ainda sugere que a cognição compartilhada pode nos ajudar a explicar o que separa uma equipe eficaz de equipes ineficazes, pois em equipes eficazes, os membros têm conhecimento similar ou compatível, e que eles usam esse conhecimento para orientar o seu comportamento.
 #
 [ANNOTATION:
 
@@ -114,9 +112,9 @@ NOTE: 'Nesse parágrafo eu tentei trazer outros fatores que influenciam na perfo
 
 ## B.B.Percepção de Interdependência de Tarefas
 
-Segundo Merrian [REF Merrian], a pesquisa qualitativa pode se basear na perspectiva de vários indivíduos sobre determinado assunto através da observação e/ou entrevistas, onde a principal preocupação é a compreensão do fenômeno de interesse a partir das perspectivas dos participantes, e não do pesquisador.
+Segundo Merriam e Tisdell [14], a pesquisa qualitativa pode se basear na perspectiva de vários indivíduos sobre determinado assunto através da observação e/ou entrevistas, onde a principal preocupação é a compreensão do fenômeno de interesse a partir das perspectivas dos participantes, e não do pesquisador.
 
-Este trabalho pretende utilizar a percepção de um time de engenheiros de software sobre a interdependência de suas tarefas concentrando-se em respostas agregadas ou coletivas e ignorando a variação individual para formar a compreensão através da perspectiva do time.
+Este trabalho pretende utilizar a percepção de um time de engenheiros de software sobre a interdependência de suas tarefas concentrando-se em respostas agregadas ou coletivas e ignorando a variação individual para formar a compreensão através da perspectiva do time
 #
 [ANNOTATION:
 
@@ -125,25 +123,23 @@ BY 'Victor Oliveira'
 ON '2017-01-10T12:23:00'VO
 NOTE: 'Precisa da confirmação de George.'
 NOTE: '']
-[REF 2000 Kozlowski]
+ [19].
 
-Enquanto a interdependência de tarefas se refere ao grau ao qual os membros do grupo são dependentes uns dos outros para realizar seu trabalho, percepção de interdependência de tarefas se referem as impressões subjetivas de interdependência entre os indivíduos. [REF Ledoux 2009]
+Enquanto a interdependência de tarefas se refere ao grau ao qual os membros do grupo são dependentes uns dos outros para realizar seu trabalho, percepção de interdependência de tarefas se referem as impressões subjetivas de interdependência entre os indivíduos [28].
 
-As percepções de IT referem-se às impressões de um membro da equipe sobre a dependência de um outro, para realizar o trabalho e/ou realizar as tarefas da equipe. [REF Ledoux 2009]
+As percepções de IT referem-se às impressões de um membro da equipe sobre a dependência de um outro, para realizar o trabalho e/ou realizar as tarefas da equipe [28].
 
-Justamente por se tratar de pontos de vista diferentes, a perspectiva de uma mesma relação de interdependência pode divergir de indivíduo para indivíduo. (e.g. indivíduo A acha que o indivíduo B depende do resultado de seu trabalho, porém o indivíduo B não tem a mesma percepção, achando que seu trabalho não depende do resultado do trabalho de mais ninguém). É aí que surge a homogeneidade das percepções de interdependência de tarefas que se refere ao grau em que os membros da equipe compartilham percepções semelhantes de interdependência de tarefas. [REF LEDOUX 2009]
+Justamente por se tratar de pontos de vista diferentes, a perspectiva de uma mesma relação de interdependência pode divergir de indivíduo para indivíduo (e.g. indivíduo A acha que o indivíduo B depende do resultado de seu trabalho, porém o indivíduo B não tem a mesma percepção, achando que seu trabalho não depende do resultado do trabalho de mais ninguém). É aí que surge a homogeneidade das percepções de interdependência de tarefas que se refere ao grau em que os membros da equipe compartilham percepções semelhantes de interdependência de tarefas [28].
 
 ## B.C.Interdependência de Tarefas na Engenharia de Software
 
-Apesar do número de pesquisas estarem crescendo muito no campo da engenharia de software [REF 2008 Shull Guide to empiracal software research] ainda são poucos os trabalhos relacionados aos aspectos humanos na engenharia de software.
+Apesar do número de pesquisas estarem crescendo muito no campo da engenharia de software [36] ainda são poucos os trabalhos relacionados aos aspectos humanos na engenharia de software.
 
-Pesquisas recentes [REF SANTOS 2016] [REF SILVA 2016] REF Wallgren, L. G.; Hanse, J. J. 2007. Job characteristics, motivators and stress among information technology consultants: A structural equation modeling approach. International Journal of Industrial Ergonomics, p. 51-59. na engenharia de software mostraram resultados conflitantes com o de outras áreas. Isso pode ser explicado pela maior variedade de tarefas e a natureza diferente dos projetos em relação aos trabalhos tradicionais. [REF MORGENSON WDQ].
+Pesquisas recentes [24, 25, 37] na engenharia de software mostraram resultados conflitantes com o de outras áreas. Isso pode ser explicado pela maior variedade de tarefas e a natureza diferente dos projetos em relação aos trabalhos tradicionais [38].
 
-Na engenharia de software, uma das técnicas mais comuns para tentar reduzir a interdependência de tarefas é modularização. Um pressuposto chave nessa linha de trabalho é que a minimização das dependências técnicas entre os componentes do produto resultará em uma estrutura de trabalho modular.  [REF Cataldo 2013]
+Na engenharia de software, uma das técnicas mais comuns para tentar reduzir a interdependência de tarefas é modularização. Um pressuposto chave nessa linha de trabalho é que a minimização das dependências técnicas entre os componentes do produto resultará em uma estrutura de trabalho modular [39].
 
-Pesquisadores descobriram que o uso de projetos modulares para reduzir as dependências técnicas tende a levar as equipes de desenvolvimento a assumir um grau exagerado de independência. [REF Cataldo 2013]. Entretanto esta perspectiva teórica tem importantes limitações. Uma estratégia modular é vulnerável a características de produto _cross-cutting_ (e.g. produtos que requerem mudanças em vários módulos) [REF G. Kiczales e M. Mezini, "Aspect-Oriented Programming and Modular Reasoning", Proc. 27ª Conf. Int. Software Eng., 2005.
-
-Além disso, as estruturas modulares, bem como os mecanismos organizacionais tradicionais de coordenação, tendem a não ser adequados para ambientes com dependências voláteis.
+Pesquisadores descobriram que o uso de projetos modulares para reduzir as dependências técnicas tende a levar as equipes de desenvolvimento a assumir um grau exagerado de independência [39]. Entretanto esta perspectiva teórica tem importantes limitações. Uma estratégia modular é vulnerável a características de produto _cross-cutting_ (e.g. produtos que requerem mudanças em vários módulos) [40]. Além disso, as estruturas modulares, bem como os mecanismos organizacionais tradicionais de coordenação, tendem a não ser adequados para ambientes com dependências voláteis [39].
 #
 [ANNOTATION:
 
@@ -152,7 +148,6 @@ BY 'Victor Oliveira'
 ON '2017-01-10T17:36:00'VO
 NOTE: 'Será que devo falar de Agile aqui?'
 NOTE: '']
- [REF Cataldo 2013]
 
 # III.Method
 
@@ -534,7 +529,7 @@ Os relatos dos participantes retratam a necessidade do compartilhamento de infor
 
 _"__(...) existe a parte mais implícita da coisa, que é como o responsável pela tarefa da qual eu estou dependente, como ele executou a tarefa dele (...). Obviamente, a gente senta e conversa direto. Então, a gente normalmente sabe como a pessoa está fazendo, e se tiver fazendo algo muito fora do padrão a gente vai lá e dá uns toques pra ele voltar para o eixo, ou vice-versa, comigo". _
 
-_" __se não for feito de uma forma correta e simples vai afetar diretamente o resultado dos outros. Pode gerar bugs, problemas de entendimento, e aí as pessoas podem não__ conseguir andar por não estarem entendendo aquele código. Sua tarefa está totalmente ligada com a dos outros"._
+_"__se não for feito de uma forma correta e simples vai afetar diretamente o resultado dos outros. Pode gerar bugs, problemas de entendimento, e aí as pessoas podem não conseguir andar por não estarem entendendo aquele código. Sua tarefa está totalmente ligada com a dos outros"._
 
 **Relacionamento 4:** a percepção sobre a **Interdependência de Tarefas** pode ser mediada pelos **Sentimentos** gerados, a partir do seu impacto sobre a **Performance** da equipe de desenvolvimento de software.
 
@@ -677,3 +672,45 @@ ON '2017-01-05T02:17:00'VL
 NOTE: 'Ta vermelho pq ainda n foi usado?'
 NOTE: '']
 .
+
+VICTOR REFS
+
+1. [21]Hackman, J. R., Oldham, G. R. (1980). Work redesign. Reading, MA: Addison-Wesley.
+
+[22]  Hackman, J. R., Oldham, G. R. (1976). Motivation through the design of work: Test of a theory. Organizational Behavior and Human Performance, 16. pp. 250-279.
+
+[23]  Kiggundu, M.N. (1983). Task interdependence and job design: test of a theory, Organizational Behavior and Human Performance,Vol. 31, pp. 145-172.
+
+[24] Santos, Ronnie E. S., da Silva, Fabio Q. B., de Magalhães, Cleyton V. C., Monteiro, Cleviton V. F. (2016) Building a theory of job rotation in software engineering from an instrumental case study. Proceedings of the 38th International Conference on Software Engineering - ICSE '16, 971-981.
+
+[25] Silva, Fabio Q. B., França, César., Magalhães, Cleyton V. C. (2016) Preliminary Findings about the Nature of Work in Software Engineering: An Exploratory Survey. Proceedings of the 10th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement. Article No. 10
+
+[26] Thomas, E. 5. Effects of facilitative role interdependence on group functioning. Human Relations, 1957, 10, 347-366.
+
+[27] Saavedra, Richard., Earley, P. Christopher., Dyne, Linn Van. (1993) Complex Interdependence in Task-Performing Groups. Journal of Applied Psychology. Vol. 78. Nº 1, 61-72.
+
+[28] Ledoux, Jared. (2009) Team Task Interdependence Perceptions: Toward an Integrative Model of Teamwork. 68 pags. Master's Thesis. Louisiana State University. 2009-01-28. etd-03022009-085729
+
+[29] de Jong, S. B., Van der Vegt, G. S., Molleman, E. (2007) The relationships among asymmetry in task dependence, perceived helping behavior, and trust. Journal of Applied Psychology. 1625-1637.
+
+[30] Spilerman, S. (1971), "Raising academic motivation in lower class adolescents: a convergence of two research traditions", Sociology of Education, Vol. 44, pp. 101-8.
+
+[31] Adams, J.S. (1965), "Inequity in social exchange", in Berkowitz, L. (Ed.), Advances in Social Psychology, Vol. 2, Academic Press, New York, NY, pp. 267-99.
+
+[32] Hackman, J. R. (1990). Groups that work (and those that don't): Creating conditions for effective teamwork. San Francisco: Jossey-Bass.
+
+[33] Morgeson, F.P., Reider, M.H., Campion, M.A. (2005), Selecting individuals in team settings: the importance of social skills, personality characteristics, and teamwork knowledge. Personnel Psychology, Vol. 58, pp. 583-612.
+
+[34] Van der Vegt, G. and Van de Vliert, E. (2002), Intragroup interdependence and effectiveness: review and proposed directions for theory and practice. Journal of Managerial Psychology, Vol. 17, pp. 50-68.
+
+[35] De Dreu, Carsten K. W. (2007), Cooperative outcome interdependence, task reflexivity, and team effectiveness: a motivated information processing perspective. The Journal of applied psychology, Vol. 92, pp. 628-638.
+
+[36] Shull, Forrest., Singer, Janice., Sjøberg, Dag I. K. (2008) Guide to advanced empirical software engineering. Springer-Verlag London Limited
+
+[37] Wallgren, L. G.; Hanse, J. J. (2007). Job characteristics, motivators and stress among information technology consultants: A structural equation modeling approach. International Journal of Industrial Ergonomics, p. 51-59
+
+[38] Morgeson, F. P., & Humphrey, S. E. (2006). The Work Design Questionnaire (WDQ): Developing and validating a comprehensive measure for assessing job design and the nature of work. Journal of Applied Psychology, 91, 1321- 1339.
+
+[39]        Cataldo, Marcelo, Herbsleb, James D. (2013). Coordination breakdowns and their impact on development productivity and software failures. IEEE Transactions on Software Engineering. Vol. 39, pp 343-360.
+
+[40] Kiczales, G. Mezini, M. (2005) Aspect-Oriented Programming and Modular Reasoning. Proc. 27ª Conf. Int. Software Eng.
