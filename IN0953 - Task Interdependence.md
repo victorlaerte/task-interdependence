@@ -5,6 +5,16 @@ George Marsicano Corrêa, Victor Laerte de Oliveira, Caio Cesar Bernardes, Marce
 Center for Informatics
 
 Federal University of Pernambuco
+#
+[ANNOTATION:
+
+
+BY 'Victor Laerte de Oliveira'
+ON '2017-01-26T23:02:00'VL
+NOTE: 'Algumas pessoas traduzem, outras não. Não sei como vc prefere fazer'
+NOTE: '']
+
+
 Recife, PE, Brazil.
 
 gmc3@cin.ufpe.br, vlo2@cin.ufpe.br, ccbll@cin.ufpe.br, mdss@cin.ufpe.br, jgbl@cin.ufpe.br, fabio@cin.ufpe.br
@@ -22,7 +32,7 @@ NOTE: '']
 
 Keywords-component: task interdependence, work design, software development teams, human factors, qualitative research.
 
-# I.Introdução
+# I.Introduction
 
 Since Hackman and Oldham [1][2] elaborated work design theory, focused on the experience of workers and on individual work practices, several other authors also began to include and emphasize the social interactions and interaction aspects of workers in their investigations [3][4]. One of the social characteristics of work design is task interdependence [5], which is related by some authors to teamwork and their performance [6][7][8][9][10].
 
@@ -42,21 +52,21 @@ As far as research on work design in software engineering is concerned, the lite
 
 In order to contribute to the evolution of studies on work design in software engineering, this research aims to investigate the impact of task interdependence  in software engineering. In view of this, this work is primarily guided by following question: _What is the perception of the individuals of a software development team about task interdependence and their impacts on teamwork dynamics?_
 
-Neste estudo buscamos investigar a interdependência de tarefas relacionadas a uma equipe de desenvolvimento de software, especificamente, uma equipe de implementadores (desenvolvedores). Assim, para responder nossa pergunta de pesquisa foi realizado um estudo de caso em uma empresa brasileira, onde foram realizadas entrevistas com o objetivo de coletar dados sobre a experiência dos desenvolvedores em relação à interdependência de tarefas, no âmbito do projeto que estão atualmente, alocados. Com isso, este trabalho apresenta evidências empíricas sobre o impacto da interdependência de tarefas na dinâmica da equipe, e propõe uma teoria inicial de interdependência de tarefas na engenharia de software.
+In this study we seek to investigate task interdependence related to software development team, specifically a team of implementers (developers). Thus, to answer our research question, a case study was conducted in a Brazilian company, where interviews were conducted with the objective of collecting data about the experience of the developers in relation to task interdependence within the scope of the project that they are currently allocated. This paper presents empirical evidence on the impact of task interdependence on team dynamics, and proposes an initial theory of task interdependence in software engineering.
 
-O restante deste artigo é organizado da seguinte forma. Na Seção II, apresentamos as definições sobre interdependência de tarefas, uma visão geral sobre o tema e trabalhos relacionados. Na Seção III é descrito o método de pesquisa e o estudo de caso realizado. Na Seção IV são apresentados os resultados, os quais são discutidos com suporte na literatura (Seção V). Por fim são apresentadas as possíveis ameaças à validade, implicações para a prática e trabalhos futuros (Seção VI), bem como as conclusões (Seção VII).
+The remainder of this article is organized as follows. In Section II, we present the definitions about task interdependence, an overview on the theme and related works. Section III describes the research method and case study. Section IV presents the results, which are discussed with support in the literature (Section V). Finally, the possible threats to validity, implications for practice and future work are presented (Section VI), as well as the conclusions (Section VII).
 
 # II.Background
 
-Nesta seção são apresentadas as definições sobre interdependência de tarefas, que suportam esta pesquisa, assim como trabalhos relacionados.
+This section presents the definitions of task interdependence that supports this research, as well as related works.
 
-## B.A.Definições sobre Interdependência de Tarefas
+## B.A.Definitions of Task Interdependence
 
-A literatura apresenta diversas definições para o conceito de interdependência, muitas delas baseadas na teoria da interdependência de tarefas criada por Kiggundu [3], o qual define a interdependência de tarefas como o grau de conectividade com que o sucesso de um trabalho depende do sucesso de outros para ser bem-sucedido.
+The literature presents several definitions for the concept of interdependence, many of them based on Kiggundu's theory of task interdependence [3], which defines the task interdependence as the degree of connectivity with which the success of a job depends on the success of others to be successful.
 
-Para Kiggundu [3]a interdependência de tarefas pode ser dividida em duas dimensões:
+For  Kiggundu [3] task interdependence can be divided into two distinct forms:
 
-- .Interdependência iniciada: quando o trabalho de um indivíduo afeta o trabalho de outro (exemplo: o resultado do trabalho do indivíduo A é entrada para o início do trabalho do indivíduo B).
+- .Initiated Interdependence: quando o trabalho de um indivíduo afeta o trabalho de outro (exemplo: o resultado do trabalho do indivíduo A é entrada para o início do trabalho do indivíduo B).
 - .Interdependência recebida: quando o trabalho de um indivíduo é afetado pelo trabalho de outros (exemplo: para ser iniciado, o trabalho de A depende do resultado do trabalho de B).
 
 Segundo Jong et. al. [10] a interdependência de tarefas ocorre quando um integrante da equipe necessita de informações, recursos, conselhos, conhecimento, assistência física e/ou equipamento de outro integrante da equipe para completar sua tarefa com sucesso.
