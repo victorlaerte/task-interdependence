@@ -1,6 +1,15 @@
 ### **Building an Initial Theory of Task Interdependence in Software Development Teams: A Case Study**
 
-George Marsicano Corrêa, Victor Laerte de Oliveira, Caio Cesar Bernardes, Marcely Daniela Silva dos Santos, Johann Gomes Barros Lima, Fabio Q. B. da Silva
+George Marsicano Corrêa, Victor Laerte de Oliveira, Caio Cesar Bernardes, Marcely Daniela Silva dos Santos, Johann Gomes Barros Lima
+#
+[ANNOTATION:
+
+
+BY 'Victor Laerte de Oliveira'
+ON '2017-01-27T23:26:00'VL
+NOTE: 'O pessoal vai continuar? A gente poderia cobrar um pouco de comprometimento, pelo menos pra revisão da tradução'
+NOTE: '']
+, Fabio Q. B. da Silva
 
 Center for Informatics
 
@@ -66,18 +75,18 @@ The literature presents several definitions for the concept of interdependence, 
 
 For  Kiggundu [3] task interdependence can be divided into two distinct forms:
 
-- .Initiated Interdependence: quando o trabalho de um indivíduo afeta o trabalho de outro (exemplo: o resultado do trabalho do indivíduo A é entrada para o início do trabalho do indivíduo B).
-- .Interdependência recebida: quando o trabalho de um indivíduo é afetado pelo trabalho de outros (exemplo: para ser iniciado, o trabalho de A depende do resultado do trabalho de B).
+- .Initiated Interdependence: It's when the job of one individual affects the job of another (e.g. the result of the individual's A job  is an input to the beginning of the individual's B job).
+- .Received Interdependence: It's when an individual's job is affected by the job of others (e.g. to be started, the job of A depends on the result of the job of B).
 
-Segundo Jong et. al. [10] a interdependência de tarefas ocorre quando um integrante da equipe necessita de informações, recursos, conselhos, conhecimento, assistência física e/ou equipamento de outro integrante da equipe para completar sua tarefa com sucesso.
+According to Jong et. al. [10] task interdependence occurs when a team member needs information, resources, advice, knowledge, physical assistance, and/or equipment of another team member to complete their task successfully.
 
-De maneira similar, Kiggundu [3] afirma que interdependência possui três sub-dimensões, sendo: (i) escopo, (ii) recurso e (iii) criticidade. Onde, (i) refere-se ao nível de interconexão entre as tarefas (workflow), (ii) está associado ao grau de interdependência entre duas ou mais tarefas, que envolvem dar e receber recursos (materiais, equipamentos, informação, etc.), e (iii) vincula-se à medida que a interdependência de tarefas afeta o resultado final a ser obtido.
+In similar way, Kiggundu [3] afirms that interdependence has three sub-dimensions: (i) scope, (ii) resource and (iii) criticality. Where, (i) refers to the level of interconnection between workflows, (ii) it is associated with the degree of interdependence between two or more tasks, which involve giving and receiving resources (materials, equipment, information, etc.), and (iii) it is related to the extent to which task interdependence affects the final result to be obtained.
 
-## B.B.Interdependência de Tarefas em Outras Áreas
+## B.B.Task Interdependence in Other Areas
 
-No que tange as pesquisas que estão sendo realizadas sobre a interdependência de tarefas fora da engenharia de software, alguns trabalhos sugerem que empregados reagem mais positivamente à interdependência iniciada do que a recebida, pois enquanto a primeira aumenta o nível de cooperação, ajuda mútua e comportamento colaborativo, a segunda tende a diminuir o nível de autonomia impactando negativamente na motivação e satisfação [21][3][22][23]. Adams [24] acredita que isso pode ser explicado pela noção de reciprocidade na troca social. Neste contexto, indivíduos que percebem ser mais dependentes de seus pares (interdependência recebida) serão mais motivados a ser recíprocos, facilitando o trabalho dos outros (interdependência iniciada). Complementarmente, Kiggundu [3] observa que, embora a interdependência de tarefas iniciada e recebida seja vista como independente, alterações em uma podem gerar alterações correspondentes na outra.
+Regarding the researches that are being conducted on task interdependence outside software engineering, some studies suggest that employees react more positively to the initiated interdependence than the received, since the former increases the level of cooperation, mutual aid and collaborative behavior, the second tends to reduce the level of autonomy, negatively impacting the motivation and satisfaction [21][3][22][23]. Adams [24] believes that this can be explained by the notion of reciprocity in social exchange and by reciprocity norms. In this context, individuals who perceive to be more dependent on their peers (received interdependence) will be more motivated to be reciprocal, facilitating the work of others (initiated interdependence). In addition, Kiggundu [3] states that although the initiated and received task interdependence is seen to be independent, changes in one can generate corresponding changes in the other.
 
-Sobre a interdependência de tarefas no trabalho em equipe, Taggar e Haines III [21] dizem que podem existir diferenças na interdependência inicia entre membros de uma mesma equipe que realizam tarefas idênticas sob condições similares. Sobre esse fenômeno membros que possuem um auto senso de responsabilidade pelo trabalho dos outros produzem melhores resultados individuais [3].
+On task interdependence in teamwork, Taggar e Haines III [21] says that there may be differences in interdependence between members of the same team who perform similar tasks under similar conditions. On this phenomenon members who have a self-sense of responsibility for the work of others produce better individual results [3].
 
 Quanto aos benefícios da interdependência de tarefas no trabalho em equipe, Johnson e Johnson [25] afirmam que tal fator ajuda, entre outras coisas, a melhorar a aprendizagem e as relações interpessoais entre seus membros [21][25]. De Dreu [26] complementa indicando que, quando os integrantes da equipe percebem a interdependência de resultados cooperativos, eles lidam melhor com as diferenças de opinião, aprendem mais e executam suas tarefas com mais eficiência.
 
