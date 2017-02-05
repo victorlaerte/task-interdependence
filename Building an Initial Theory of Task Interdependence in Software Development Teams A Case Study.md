@@ -385,7 +385,15 @@ Client, test team, usability team and project leader
 
  | Development Team |
 
-O segundo construto identificado é a **Ajuda Mútua (AM)** , o qual está relacionado à dinâmica interna do trabalho da equipe de desenvolvimento de software. Nesse contexto, cada um dos membros da equipe busca ajudar o outro, seja na realização de uma tarefa, ou na necessidade de tirar uma dúvida. O objetivo é fazer com que todo o time cresça e evolua junto, tanto no contexto técnico, quanto relacional. O ambiente de ajuda da equipe é reportado como sendo bastante informal. Não há um processo para identificação e ajuda. Os membros da equipe, simplesmente, identificam a necessidade de ajudar os outros, ou pedem ajuda, voluntariamente. Neste contexto, a interdependência de tarefas favorece a criação de um ambiente de ajuda entre os membros da equipe.
+The second identified construct is **Mutual Help (MH** )
+#
+[ANNOTATION:
+
+
+BY 'Victor Oliveira'
+ON '2017-02-05T20:02:00'VO
+NOTE: 'Ajuda Mútua']
+, which is related to the internal work dynamics of the software development team. In this context, each team member seeks to help the other, either to realize a task, or in the need to ask a question. O objetivo é fazer com que todo o time cresça e evolua junto, tanto no contexto técnico, quanto relacional. O ambiente de ajuda da equipe é reportado como sendo bastante informal. Não há um processo para identificação e ajuda. Os membros da equipe, simplesmente, identificam a necessidade de ajudar os outros, ou pedem ajuda, voluntariamente. Neste contexto, a interdependência de tarefas favorece a criação de um ambiente de ajuda entre os membros da equipe.
 
 _"__Eu nem sei como falar, depende muito do momento, mas: 'Olha eu vou precisar dessa feature quando você consegue terminar ela? Se você precisar da minha ajuda... ', 'eu nem sei, assim, formalizar como isso ocorre, é bem assim normal'(...) Dependemos uns dos outros e nos ajudamos"._
 
