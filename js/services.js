@@ -8,11 +8,10 @@
 
                 var strings = {
                     title: "Building an Initial Theory of Task Interdependence in Software Development Teams: A Case Study",
-                    subtitle: "MSc Candidate - CIn UFPE, Software Developer - Facilit Tecnologia",
+                    subtitle: "This research investigate the perception of the individuals in a software development team about task interdependence and their impacts on teamwork dynamics, as well as to propose an initial theory that explains the phenomenon.",
                     aboutMeEducation: "MSc candidate in Computer Science at CIn - UFPE, BSc in Information Systems at University of Pernambuco (UPE - 2011) and Electronics Technician at the National Service for Industrial Training (SENAI - 2006).",
-                    aboutMeWork: "At the same time with the researcher occupation, I've been working as software developer at Facilit Technology since 2013 and during that time I was involved in several projects using various technologies, detailed below.",
                     address: "Recife, Pernambuco - Brazil",
-                    email: "victorlaertedoliveira@gmail.com",
+                    email: "vlo2@cin.ufpe.br",
                     ufpe: {
                         imgUrl : "images/logoufpe.jpg",
                         name: "Federal University of Pernambuco (UFPE)",

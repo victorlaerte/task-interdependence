@@ -192,46 +192,46 @@ ul#nav li.current a { color: #F06000; }
 /* c. About Section
 /* ------------------------------------------------------------------ */
 
-#about {
+#authors {
    background: #2B2B2B;
    padding-top: 96px;
    padding-bottom: 66px;
    overflow: hidden;
 }
 
-#about a, #about a:visited  { color: #fff; }
-#about a:hover, #about a:focus { color: #11ABB0; }
+#authors a, #authors a:visited  { color: #fff; }
+#authors a:hover, #authors a:focus { color: #11ABB0; }
 
-#about h2 {
+#authors h2 {
    font: 22px/30px 'opensans-bold', sans-serif;
    color: #fff;
    margin-bottom: 12px;
 }
-#about p {
+#authors p {
    line-height: 30px;
    color: #7A7A7A;
 }
-#about .profile-pic {
+#authors .profile-pic {
    position: relative;
    width: 120px;
    height: 120px;
    border-radius: 100%;
 }
-#about .contact-details { width: 41.66667%; }
-#about .download {
+#authors .contact-details { width: 41.66667%; }
+#authors .download {
    width: 58.33333%;
    padding-top: 6px;
 }
-#about .main-col { padding-right: 5%; }
-#about .download .button {
+#authors .main-col { padding-right: 5%; }
+#authors .download .button {
    margin-top: 6px;
    background: #444;
 }
-#about .download .button:hover {
+#authors .download .button:hover {
    background: #fff;
    color: #2B2B2B;
 }
-#about .download .button i {
+#authors .download .button i {
    margin-right: 15px;
    font-size: 20px;
 }
@@ -241,48 +241,48 @@ ul#nav li.current a { color: #F06000; }
 /* d. Resume Section
 /* ------------------------------------------------------------------ */
 
-#resume {
+#research {
    background: #fff;
    padding-top: 90px;
    padding-bottom: 72px;
    overflow: hidden;
 }
 
-#resume a, #resume a:visited  { color: #11ABB0; }
-#resume a:hover, #resume a:focus { color: #313131; }
+#research a, #research a:visited  { color: #11ABB0; }
+#research a:hover, #research a:focus { color: #313131; }
 
-#resume h1 {
+#research h1 {
    font: 18px/24px 'opensans-bold', sans-serif;
    text-transform: uppercase;
    letter-spacing: 1px;
 }
-#resume h1 span {
+#research h1 span {
    border-bottom: 3px solid #11ABB0;
    padding-bottom: 6px;
 }
-#resume h3 {
+#research h3 {
    font: 25px/30px 'opensans-bold', sans-serif;
 }
 
-#resume .header-col { padding-top: 9px; }
-#resume .main-col { padding-right: 10%; }
+#research .header-col { padding-top: 9px; }
+#research .main-col { padding-right: 10%; }
 
 .education, .work {
    margin-bottom: 48px;
    padding-bottom: 24px;
    border-bottom: 1px solid #E8E8E8;
 }
-#resume .info {
+#research .info {
    font: 16px/24px 'librebaskerville-italic', serif;
    color: #6E7881;
    margin-bottom: 18px;
    margin-top: 9px;
 }
-#resume .info span {
+#research .info span {
    margin-right: 5px;
    margin-left: 5px;
 }
-#resume .date {
+#research .date {
    font: 15px/24px 'opensans-regular', sans-serif;
    margin-top: 6px;
 }
