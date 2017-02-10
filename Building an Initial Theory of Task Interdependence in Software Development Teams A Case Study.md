@@ -5,21 +5,11 @@ George Marsicano Corrêa, Victor Laerte de Oliveira, Fabio Q. B. da Silva
 Center for Informatics
 
 Federal University of Pernambuco
-#
-[ANNOTATION:
-
-
-BY 'Victor Laerte de Oliveira'
-ON '2017-01-26T23:02:00'VL
-NOTE: 'Algumas pessoas traduzem, outras não. Não sei como vc prefere fazer'
-NOTE: '']
-
-
 Recife, PE, Brazil.
 
 gmc3@cin.ufpe.br, vlo2@cin.ufpe.br, ccbll@cin.ufpe.br, mdss@cin.ufpe.br, jgbl@cin.ufpe.br, fabio@cin.ufpe.br
 
-_Abstract_ – Context: Task interdependence is one of the social characteristics of work design, which is related to some authors to the level of interaction between team members and their results. In software engineering, work is strongly team-based. In recent years more research has been conducted with the aim of investigating the interactions between people and teamwork in software engineering. However, few initiatives are associated with work design, especially related to task interdependence in software engineering. Goal: Investigate the perception of the individuals in a software development team about task interdependence and their impacts on teamwork dynamics, as well as to propose an initial theory that explains the phenomenon. Method: We investigated a team of implementers**
+_Abstract_ – Context: Task interdependence is one of the social characteristics of work design, which is related to some authors to the level of interaction between team members and their results. In software engineering, work is strongly team-based. In recent years, more research has been conducted with the aim of investigating the interactions between people and teamwork in software engineering. However, few initiatives are associated with work design, especially related to task interdependence in software engineering. Goal: Investigate the perception of the individuals in a software development team about task interdependence and their impacts on teamwork dynamics, as well as to propose an initial theory that explains the phenomenon. Method: We investigated a team of implementers**
 #
 [ANNOTATION:
 
@@ -71,7 +61,7 @@ For Kiggundu [3] task interdependence can be divided into two distinct forms:
 
 According to Jong et. al. [10] task interdependence occurs when a team member needs information, resources, advice, knowledge, physical assistance, and/or equipment of another team member to complete their task successfully.
 
-In similar way, Kiggundu [3] afirms that interdependence has three sub-dimensions: (i) scope, (ii) resource and (iii) criticality. Where, (i) refers to the level of interconnection between workflows, (ii) it is associated with the degree of interdependence between two or more tasks, which involve giving and receiving resources (materials, equipment, information, etc.), and (iii) it is related to the extent to which task interdependence affects the final result to be obtained.
+In similar way, Kiggundu [3] affirms that interdependence has three sub-dimensions: (i) scope, (ii) resource and (iii) criticality. Where, (i) refers to the level of interconnection between workflows, (ii) it is associated with the degree of interdependence between two or more tasks, which involve giving and receiving resources (materials, equipment, information, etc.), and (iii) it is related to the extent to which task interdependence affects the final result to be obtained.
 
 ## B.B.Task Interdependence in Other Areas
 
@@ -393,7 +383,7 @@ The second identified construct is **Mutual Help (MH** )
 BY 'Victor Oliveira'
 ON '2017-02-05T20:02:00'VO
 NOTE: 'Ajuda Mútua']
-, which is related to the internal work dynamics of the software development team. In this context, each team member seeks to help the other, either to realize a task, or in the need to ask a question. O objetivo é fazer com que todo o time cresça e evolua junto, tanto no contexto técnico, quanto relacional. O ambiente de ajuda da equipe é reportado como sendo bastante informal. Não há um processo para identificação e ajuda. Os membros da equipe, simplesmente, identificam a necessidade de ajudar os outros, ou pedem ajuda, voluntariamente. Neste contexto, a interdependência de tarefas favorece a criação de um ambiente de ajuda entre os membros da equipe.
+, which is related to the internal work dynamics of the software development team. In this context, each team member seeks to help the other, either to realize a task, or in the need to ask a question. The goal is to make the whole team grow and evolve together, both in the technical context and in relationships. The team's help environment is reported to be quite informal. There is no process for identification and help. Team members simply identify the need to help others, or ask for help voluntarily. In this context, task interdependence benefits the creation of a helping environment among team members.
 
 _"__Eu nem sei como falar, depende muito do momento, mas: 'Olha eu vou precisar dessa feature quando você consegue terminar ela? Se você precisar da minha ajuda... ', 'eu nem sei, assim, formalizar como isso ocorre, é bem assim normal'(...) Dependemos uns dos outros e nos ajudamos"._
 
@@ -401,7 +391,24 @@ _"__Eu acredito que nessa parte do projeto precisamos trabalhar mais com os aspe
 
 _"__A gente tenta ajudar, ver no que pode ajudar para fazer essa atividade correr rápida e da forma correta (...). A ideia é fazer com que o time ande de maneira constante e não fique parado porque alguém teve um problema"._
 
-O terceiro construto é a **Sincronização de Tarefas (ST)** , o qual refere-se à manutenção da realização sequencial das tarefas, a partir de suas relações de dependência. O desafio da ST é reportado pelos membros da equipe de desenvolvimento, sendo objeto de atenção entre os envolvidos no sentido de não gerar atrasos e ou bloqueio de tarefas. Assim, a interdependência de tarefas aumenta a necessidade de sincronismo, entre as mesmas.
+The third construct is **T**** ask Synchronization (T**S
+#
+[ANNOTATION:
+
+
+BY 'Victor Oliveira'
+ON '2017-02-09T21:59:00'VO
+NOTE: 'Sincronização de Tarefas']
+**)** , The third construct is Task Synchronization (TS ), which refers to the maintenance of sequential task accomplishment. The challenge of TS is reported by development team members, as being the object of attention among those involved in the sense of not generating delays and/or
+#
+[ANNOTATION:
+
+
+BY 'Victor Oliveira'
+ON '2017-02-09T22:06:00'VO
+NOTE: 'Existe alguma forma ou expressão em inglês pra isso?'
+NOTE: '']
+ blocking tasks. Thus, the interdependence of tasks increases the need for synchronism between them
 
 _"__Se tá todo mundo sincronizado e o progresso da minha atividade ajuda no progresso do outro, e quando o outro gera a atividade dele, eu consigo progredir na minha"._
 
@@ -409,28 +416,36 @@ _"__O atraso na minha tarefa pode atrasar um cronograma, porque tem uma data pre
 
 _"__A gente precisa resolver uma quantidade X de bugs para que tenha material suficiente para que a equipe de teste possa testar a aplicação. Então, se eu começo a atrasar muito as tarefas, com certeza vai ter um impacto no cronograma da pessoa de teste"._
 
-O Sincronismo de Tarefas possui relação, tanto com as atividades entre os membros da equipe de desenvolvimento (interno), quanto de suas atividades com os agentes externos (equipe de teste). Neste sentido, nossas descobertas apontam para um vínculo, tanto de interdependência iniciada, quanto de interdependência recebida em relação aos seus agentes (externos e internos). Veja a Tabela 4.
+Task Synchronization relates to both the activities between development team members (internal) and their activities with external agents (test team). In this sense, our findings point to a link, both of intiated and received interdependence, in relation to its agents (external and internal). See Table 4.
 
-Tabela 4. Interdependência Iniciada e Recebida envolvendo a Equipe de Desenvolvimento – Sincronismo de Tarefas
+Tablel 4. Initiated and Received Interdependence involving Developement Team – Task Synchronization
 
-| Interdependência | Agentes Externos |
+| **Interdependence** | Agentes Externos |
 **Agentes Internos**
 # **6**
 
  |
 | --- | --- | --- |
-| Iniciada |
-Equipe de teste
+| Initiated |
+Test team
 # 7
 
- | Equipe de desenvolvimento |
-| Recebida |
-Equipe de teste
+ | Development Team |
+| **Received** |
+Test team
 # 8
 
- | Equipe de desenvolvimento |
+ | Development Team |
 
-O quarto construto é a **Redundância de Conhecimento (RC)** , referindo-se à estratégia adotada pela equipe, no que tange a promover o compartilhamento de conhecimento entre os seus membros. Ou seja, fazer com que os membros da equipe compartilhem os mesmos conhecimentos no sentido de tornar possível a alocação de qualquer atividade, a qualquer desenvolvedor. Esse é um construto vinculado à dinâmica interna da equipe.
+The fourth construct is the **Knowledge Redundancy**
+#
+[ANNOTATION:
+
+
+BY 'Victor Oliveira'
+ON '2017-02-09T22:24:00'VO
+NOTE: 'Redundância de Conhecimento. Revisar esse termo']
+**(KR)** , referring to the strategy adopted by the team, in what concerns to promote the sharing of knowledge among its members, i.e, team members should share the same knowledge in order to make possible to allocate any activity to any developer. This is a construct linked to the internal team dynamics.
 
 "(...) a ideia é que todo mundo consiga fazer de tudo quando for necessário, se alguém está doente, ou se alguém não pode vir por algum motivo".
 
@@ -442,25 +457,49 @@ _"__Então, eu tenho que pensar em como eu vou escrever o código, porque depois
 
 _"__A gente se junta, discute como funciona e qual é o comportamento do framework (...). E aí, há um treinamento on the fly"._
 
-As **Relações Interpessoais (RI)** entre os membros da equipe de desenvolvimento e os agentes externos a ela moderam as ações de compartilhamento de informação, ajuda mútua e redundância de conhecimento. No que se refere às relações entre os membros da equipe, os resultados da pesquisa apontam para pessoas com relações próximas, de amizade e parceria.
+**Interpersonal**** Relations**
+#
+[ANNOTATION:
+
+
+BY 'Victor Oliveira'
+ON '2017-02-09T22:51:00'VO
+NOTE: 'Relations ou Relationships?']
+**(IR)** between development team members and external agents moderates the actions of information sharing, mutual help, and knowledge redundancy. With regard to the relationships among team members, research results points to people with close relations of friendship and partnership.
 
 _"__(...) a gente tem uma integração muito boa, eu conheço bem o pessoal e me considero amigo até fora do ambiente de trabalho, é até às vezes difícil saber separar isso... gosto bastante da minha equipe e a gente tem uma ótima relação (...). Acho que isso ajuda bastante no dia-a-dia quando precisamos interagir e trocar informações"._
 
 _"__(...) eu gosto bastante de socializar, essa característica faz parte do meu perfil. Então, acaba que eu me envolvo não só com coisas do trabalho, mas também, me envolvo bastante com as pessoas do meu time, tenho uma relação muito boa com as pessoas (...). Me sinto bem ajudando no crescimento das pessoas e do time"._
 
-Por outro lado, ao se falar das relações interpessoais com os agentes externos (cliente) os relatos da equipe apontam para outra direção, que pode possibilitar um movimento de afastamento da equipe de desenvolvimento, ou dificuldade na relação.
+On the other hand, when talking about interpersonal relations with external agents (client), the team reports point in another direction, which may make it possible to move away from the development team, or face difficulty in the relationship.
 
 _"__(...) a gente vai e ajuda, mas obviamente porque tem que ajudar. Não só pela relação cliente, mas pela relação de poder mesmo (...)"._
 
 _"__A gente é visto como um companheiro de time, ou como uma ferramenta pra ser utilizada quando necessário? Essa é a pergunta chave"._
 
-Atuando de maneira próxima às Relações Interpessoais, o **Sentimento de Pertencimento (SP)** , surge como um construto individual, a partir do qual cada um dos participantes da pesquisa percebe seu vinculo com a equipe. Sentindo-se parte e acreditando no valor do trabalho em equipe. Esse é um construto vinculado à dinâmica interna da equipe de desenvolvimento. Nesta pesquisa foi possível verificar um forte sentimento de pertencimento de equipe entre seus membros.
+Acting closely to Interpersonal Relations, the **Feeling of Belonging (FB** )
+#
+[ANNOTATION:
+
+
+BY 'Victor Oliveira'
+ON '2017-02-09T23:01:00'VO
+NOTE: 'Sentimento de Pertencimento']
+, emerges as an individual construct, from which each of research participants perceive their relationship with the team, feeling part and believing in the value of teamwork. This construct is linked to the internal team dynamics. In this research it was possible to verify a strong feeling of belonging of team among its members.
 
 _  __"__ Me sinto muito parte do time (...)"._
 
 "Me sinto totalmente parte da equipe (...). A gente tem total liberdade de opinar, de dar sugestão, receber crítica. Receber feedbacks positivos e negativos. Totalmente integrado nesse grupo. Não tenho nenhuma limitação, tenho muita liberdade".
 
-As **Competências e Habilidades Individuais (CI)** dos membros da equipe de desenvolvimento moderam as ações de ajuda mútua e redundância de conhecimento. Esse construto é atribuído à dinâmica interna da equipe.
+The **Competence and Skills (CS** )
+#
+[ANNOTATION:
+
+
+BY 'Victor Oliveira'
+ON '2017-02-09T23:06:00'VO
+NOTE: 'Competência e Habilidades']
+of development team members moderate actions of mutual help and knowledge redundancy. This construct is attributed to the internal team dynamics.
 
 _"__A gente tem um dos integrantes que tem um bom conhecimento nessa parte web. Então, quando eu estou com uma tarefa web ele me orienta"._
 
@@ -470,7 +509,7 @@ _"__Aí, de repente pode acontecer de aparecer um bug que eu sei que o meu coleg
 
 Outro importante construto identificado é a **Garantia de Normas e Padrões de Desenvolvimento (GD)** , o qual modera a relação entre o compartilhamento de informações e os resultados gerados pela equipe. Tal construto é vinculado à dinâmica interna da equipe.
 
-_" __(...) o lance, mais uma vez, é baseado em conversa. Eu tento modularizar o máximo possível, já cansei de refatorar coisa porque eu fiz o código e esse negócio poder ser replicado em__ outras três classes (...) Tento garantir a aplicação dos padrões de desenvolvimento para facilitar a vida de todos da equipe"._
+_"__(...) o lance, mais uma vez, é baseado em conversa. Eu tento modularizar o máximo possível, já cansei de refatorar coisa porque eu fiz o código e esse negócio poder ser replicado em outras três classes (...) Tento garantir a aplicação dos padrões de desenvolvimento para facilitar a vida de todos da equipe"._
 
 _"__(...) obviamente a qualidade daquilo que ele faz vai interferir diretamente no meu trabalho. Então, o lance é comunicação constante (...). E ficar atento aos padrões"._
 
@@ -717,19 +756,19 @@ References
  Activities are initiated by external agents to development team, who is affected.
 
 # 3
- Relação de interdependência iniciada e recebida entre os próprios membros da equipe de desenvolvimento.
+ Relationship of initiated and received interdependence among development team members.
 
 # 4
- A equipe de desenvolvimento inicia atividades que impacta nas atividades da equipe de teste.
+ The development team initiates activities that affect the activities of the test team.
 
 # 5
- As atividades são iniciadas pelos agentes externos à equipe de desenvolvimento, que recebe o impacto.
+ The activities are initiated from external agents to the development team, who receives the impact.
 
 # 6
- Relação de interdependência iniciada e recebida entre os próprios membros da equipe de desenvolvimento.
+ Relationship of initiated and received interdependence among development team members.
 
 # 7
- A equipe de desenvolvimento inicia atividades que impacta nas atividades da equipe de teste.
+ The development team initiates activities that affect the activities of the test team.
 
 # 8
- As atividades são iniciadas pela equipe de teste. A equipe de desenvolvimento recebe o impacto.
+ The activities are initiated from external agents to the development team, who receives the impact.
