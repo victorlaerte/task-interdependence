@@ -19,7 +19,6 @@
     <link rel="stylesheet" href="css/default.css">
     <link rel="stylesheet" href="css/layout.css">
     <link rel="stylesheet" href="css/media-queries.css">
-    <link rel="stylesheet" href="css/magnific-popup.css">
 
     <!-- Script
    ================================================== -->
@@ -98,96 +97,31 @@
 
         <div class="row">
 
-            <div class="three columns">
+            <div ng-repeat="author in authors">
+                <div class="three columns">
 
-                <a href="http://www.victorlaerte.com">
-                    <img class="profile-pic" src="images/profile.jpg" alt="" />
-                </a>
+                    <a href="{{::author.personalUrl}}">
+                        <img class="profile-pic" ng-src="{{::author.profileImgUrl}}" alt="" />
+                    </a>
 
+                </div>
+
+                <div class="nine columns main-col">
+
+                    <h2><a href="{{::author.personalUrl}}">{{author.name}}</a> - <a href="mailto:{{::author.email}}"> {{::author.email}}</a><br>
+                    </h2>
+                    <p>
+                        {{::author.resume}}
+                        <span> 
+                            <a>{{::author.address}}</a>
+                        </span>
+                    </p>
+
+                </div>
+                
+                <hr>
             </div>
 
-            <div class="nine columns main-col">
-
-                <h2><a href="http://www.victorlaerte.com">Victor Laerte de Oliveira</a> - <a href="mailto:{{::getData('email')}}"> {{::getData('email')}}</a><br>
-                </h2>
-                <p>
-                    {{::getData('aboutMeEducation')}}
-                    <span> 
-                        <a>{{::getData('address')}}</a>
-                    </span>
-                </p>
-
-            </div>
-            
-            <hr>
-
-            <div class="three columns">
-
-                <a href="http://www.victorlaerte.com">
-                    <img class="profile-pic" src="images/profile.jpg" alt="" />
-                </a>
-
-            </div>
-
-            <div class="nine columns main-col">
-
-                <h2><a href="http://www.victorlaerte.com">Victor Laerte de Oliveira</a> - <a href="mailto:{{::getData('email')}}"> {{::getData('email')}}</a><br>
-                </h2>
-                <p>
-                    {{::getData('aboutMeEducation')}}
-                    <span> 
-                        <a>{{::getData('address')}}</a>
-                    </span>
-                </p>
-
-            </div>
-            
-            <hr>
-
-            <div class="three columns">
-
-                <a href="http://www.victorlaerte.com">
-                    <img class="profile-pic" src="images/profile.jpg" alt="" />
-                </a>
-
-            </div>
-
-            <div class="nine columns main-col">
-
-                <h2><a href="http://www.victorlaerte.com">Victor Laerte de Oliveira</a> - <a href="mailto:{{::getData('email')}}"> {{::getData('email')}}</a><br>
-                </h2>
-                <p>
-                    {{::getData('aboutMeEducation')}}
-                    <span> 
-                        <a>{{::getData('address')}}</a>
-                    </span>
-                </p>
-
-            </div>
-            
-            <hr>
-
-            <div class="three columns">
-
-                <a href="http://www.victorlaerte.com">
-                    <img class="profile-pic" src="images/profile.jpg" alt="" />
-                </a>
-
-            </div>
-
-            <div class="nine columns main-col">
-
-                <h2><a href="http://www.victorlaerte.com">Victor Laerte de Oliveira</a> - <a href="mailto:{{::getData('email')}}"> {{::getData('email')}}</a><br>
-                </h2>
-                <p>
-                    {{::getData('aboutMeEducation')}}
-                    <span> 
-                        <a>{{::getData('address')}}</a>
-                    </span>
-                </p>
-
-            </div>
-            
         </div>
 
     </section>
@@ -202,7 +136,7 @@
 
             <div class="columns main-col">
 
-                <ng-resume-row item="::getData('facilit')"></ng-resume-row>
+                <ng-resume-row item="::getData('research')"></ng-resume-row>
 
             </div>
             <!-- main-col end -->
@@ -212,311 +146,25 @@
 
         <!-- Education -->
 
-        <div class="row education">
-
-            <div class="three columns header-col">
-                <h1><span>Education</span></h1>
-            </div>
-
-            <div class="nine columns main-col">
-
-                <ng-resume-row item="::getData('ufpe')"></ng-resume-row>
-
-                <ng-resume-row item="::getData('upe')"></ng-resume-row>
-
-                <strong> <a href="http://www.slideshare.net/victorlaerte/tv-digital-no-brasil-uma-metodologia-prtica-para-o-desenvolvimento-de-aplicaes-interativas-utilizando-gingancl" title="TV DIGITAL NO BRASIL: UMA METODOLOGIA PRÁTICA PARA O DESENVOLVIMENTO DE APLICAÇÕES INTERATIVAS UTILIZANDO GINGA-NCL" target="_blank">TV DIGITAL NO BRASIL: UMA METODOLOGIA PRÁTICA PARA O DESENVOLVIMENTO DE APLICAÇÕES INTERATIVAS UTILIZANDO GINGA-NCL</a> </strong>                from <strong><a target="_blank" href="//www.slideshare.net/victorlaerte">Victor Laerte Oliveira</a></strong>
-
-                <p></p>
-                <ng-resume-row item="::getData('senai')"></ng-resume-row>
-
-            </div>
-            <!-- main-col end -->
-
-        </div>
-        <!-- End Education -->
-
-
-        <!-- Courses -->
-
-        <div class="row education">
-
-            <div class="three columns header-col">
-                <h1><span>Courses</span></h1>
-            </div>
-
-            <div class="nine columns main-col">
-
-                <ng-resume-row item="::getData('umc')"></ng-resume-row>
-
-            </div>
-            <!-- main-col end -->
-
-        </div>
-        <!-- End Courses -->
-
-        <!-- Certificates -->
-
-        <div class="row education">
-
-            <div class="three columns header-col">
-                <h1><span>Certificates</span></h1>
-            </div>
-
-            <div class="nine columns main-col">
-
-                <ng-resume-row item="::getData('scrum_certificate')"></ng-resume-row>
-                <ng-resume-row item="::getData('c_sharp_certificate')"></ng-resume-row>
-                <ng-resume-row item="::getData('mcp_certificate')"></ng-resume-row>
-
-                <div id="skills">
-                </div>
-            </div>
-            <!-- main-col end -->
-
-        </div>
-        <!-- End Certificates -->
-
-        <!-- Skills -->
-
-        <div class="row skill">
-
-            <div class="three columns header-col">
-                <h1><span>Skills</span></h1>
-            </div>
-
-            <div class="nine columns main-col">
-
-                <h5>{{::getData('skills_plp')}}</h5>
-                <ol>
-                    <li> <i class="fa fa-thumbs-up"></i> {{::getData('skills_plp1')}}
-                    </li>
-                    <li> <i class="fa fa-smile-o"></i> {{::getData('skills_plp2')}}
-                    </li>
-                    <li> <i class="fa fa-wrench"></i> {{::getData('skills_plp3')}}
-                    </li>
-                </ol>
-
-                <h5>{{::getData('skills_experience')}}</h5>
-
-                <ol>
-                    <li ng-repeat="skill in ::getData('skills_experience_array')">
-                        {{::skill.text}}
-                    </li>
-                </ol>
-
-                <div class="bars">
-
-                    <h5>{{::getData('skills_and_recommendations')}}</h5>
-
-                    <p>{{::getData('skills_section_description')}}</p>
-
-                    <p><strong>{{::getData('last_updated')}}</strong></p>
-
-                    <p></p>
-                    <ul class="skills">
-                        <li ng-repeat="skill in linkedinSkills | limitTo:15">
-                            <span class="bar-expand skillbar" style="width:{{calculateWidth(skill.votes)}}%"></span><em>{{::skill.skill}} - {{::skill.votes}} votes</em>
-                        </li>
-                    </ul>
-
-                </div>
-                <!-- end skill-bars -->
-
-            </div>
-            <!-- main-col end -->
-
-        </div>
-        <!-- End skills -->
-
     </section>
     <!-- Resume Section End-->
 
-    <!-- Portfolio Section -->
+    <!-- Acknowledgments Section -->
 
-    <section id="portfolio">
-
-        <div class="row">
-
-            <div class="twelve columns collapsed">
-
-                <h1>Check Out Some of My Works.</h1>
-
-                <!-- portfolio-wrapper -->
-                <div id="portfolio-wrapper" class="bgrid-quarters s-bgrid-thirds cf">
-
-                    <div class="columns portfolio-item" ng-repeat="portfolio in portfolios">
-
-                        <div class="item-wrap">
-
-                            <a href="#modalArea" ng-click="setPortfolio(portfolio)" title="{{::portfolio.title}}">
-                                <img alt="" ng-src="{{::portfolio.imgUrl}}">
-                                <div class="overlay">
-                                    <div class="portfolio-item-meta">
-                                        <h5>{{::portfolio.title}}</h5>
-                                        <p>{{::portfolio.description}}</p>
-                                    </div>
-                                </div>
-                                <div class="link-icon"><i class="icon-plus"></i></div>
-                            </a>
-
-                        </div>
-
-                    </div>
-                    <!-- item end -->
-
-                </div>
-                <!-- portfolio-wrapper end -->
-
-            </div>
-            <!-- twelve columns end -->
-
-        </div>
-        <!-- row End -->
-
-        <!-- Modal Popup -->
-
-        <div id="modalArea" class="top-gap">
-
-            <div class="popup-modal" ng-class="{'mfp-hide': portfolio.closed}" ng-repeat="portfolio in portfolios">
-
-                <img class="scale-with-grid" ng-src="{{::portfolio.modalImgUrl}}" alt="" />
-
-                <div class="description-box">
-                    <h4>{{::portfolio.title}}</h4>
-                    <p>{{::portfolio.description}}</p>
-                    <span class="categories"><i class="fa fa-tag"></i><span ng-repeat="tag in portfolio.tags">{{::tag.name}} </span></span>
-                </div>
-
-                <div class="link-box">
-                    <a href="{{::portfolio.url}}" target="_blank">Details</a>
-                    <a href="#portfolio" ng-click="portfolio.closed = !portfolio.closed" class="popup-modal-dismiss">Close</a>
-                </div>
-
-            </div>
-            <!-- modal End -->
-        </div>
-
-    </section>
-    <!-- Portfolio Section End-->
-
-    <!-- Kick Ass Quote Section -->
-
-    <section id="call-to-action">
+    <section id="acknowledgments">
 
         <div class="row">
 
-            <div class="two columns header-col">
+            <div class="twelve columns" ng-repeat="item in acknowledgments">
 
-                <h1><span class="fa fa-globe"></span></h1>
-
-            </div>
-
-            <div class="ten columns">
-
-                <h2><span class="lead">{{::quote.quote}}</span></h2>
-                <p class="info">{{::quote.author}}</p>
-
-            </div>
-
-            <div class="three columns action">
+                <h2><span class="lead">{{::item.acknowledgment}}</span></h2>
 
             </div>
 
         </div>
 
     </section>
-    <!-- Kick Ass Quote Section Section End-->
-
-    <!-- About Section -->
-    <section id="publications">
-
-        <div class="row">
-
-            <div class="three columns">
-
-                <h2><span class="fa fa-book"></span> Publications</h2>
-
-            </div>
-
-            <div class="nine columns main-col">
-
-                <h2>Academic</h2>
-
-                <div ng-repeat="academicPub in academicPubArray">
-                    <h4>{{::academicPub.category}}</h4>
-
-                    <ul>
-                        <li ng-repeat="pub in academicPub.items">
-                            <span><a target="_blank" href="{{::pub.link}}">({{::pub.language}}) {{::pub.title}}</a> - {{::pub.yearAndLocation}}</span>
-                        </li>
-                    </ul>
-
-                    <div>
-
-                        <hr>
-
-                        <h2>Non-Academic</h2>
-
-                        <div ng-repeat="nonAcademicPub in nonAcademicPubArray">
-                            <h4>{{::nonAcademicPub.category}}</h4>
-
-                            <ul>
-                                <li ng-repeat="pub in nonAcademicPub.items"><span><a target="_blank" href="{{::pub.link}}">({{::pub.language}}) {{::pub.title}}</a> - {{::pub.yearAndLocation}}</span></li>
-                            </ul>
-                        </div>
-
-                    </div>
-
-                </div>
-
-            </div>
-
-    </section>
-    <!-- About Section End-->
-
-    <!-- Testimonials Section -->
-    <section id="testimonials">
-
-        <div class="text-container">
-
-            <div class="row">
-
-                <div class="two columns header-col">
-
-                    <h1><span></span></h1>
-
-                </div>
-
-                <div class="ten columns flex-container">
-
-                    <div class="flexslider">
-
-                        <flex-slider animation='slide' control-nav=true direction-nav=false smooth-height=true slideshow-speed=30000 animation-speed=600 randomize=true slide="testimonial in testimonials">
-
-                            <li>
-                                <blockquote>
-                                    <p>{{::testimonial.testimonial}}
-                                    </p>
-                                    <cite>{{::testimonial.author}}</cite>
-                                    <em>{{::testimonial.info}}</em>
-                                </blockquote>
-                            </li>
-                        </flex-slider>
-
-                    </div>
-                    <!-- div.flexslider ends -->
-
-                </div>
-                <!-- div.flex-container ends -->
-
-            </div>
-            <!-- row ends -->
-
-        </div>
-        <!-- text-container ends -->
-
-    </section>
-    <!-- Testimonials Section End-->
+    <!-- Acknowledgments Section End-->
 
     <!-- footer -->
 
@@ -527,12 +175,7 @@
             <div class="twelve columns">
 
                 <ul class="social-links">
-                    <li><a target="_blank" href="https://www.facebook.com/victorlaerte"><i class="fa fa-facebook"></i></a></li>
-                    <li><a target="_blank" href="https://twitter.com/VictorLaerte"><i class="fa fa-twitter"></i></a></li>
-                    <li><a target="_blank" href="https://br.linkedin.com/in/victorlaerte"><i class="fa fa-linkedin"></i></a></li>
-                    <li><a target="_blank" href="https://www.instagram.com/victorlaerte/"><i class="fa fa-instagram"></i></a></li>
                     <li><a target="_blank" href="https://github.com/victorlaerte"><i class="fa fa-github"></i></a></li>
-                    <li><a target="_blank" href="http://stackoverflow.com/users/1965189/victor-oliveira"><i class="fa fa-stack-overflow"></i></a></li>
                 </ul>
 
                 <ul class="copyright">
@@ -557,9 +200,7 @@
         window.jQuery || document.write('<script src="js/jquery-1.10.2.min.js"><\/script>')
     </script>
     <script type="text/javascript" src="js/jquery-migrate-1.2.1.min.js"></script>
-    <script src="js/jquery.flexslider.js"></script>
     <script src="js/angular.min.js"></script>
-    <script src="js/angular-flexslider.js"></script>
     <script src="js/ctrl.js"></script>
     <!-- use this script do active menu in spa <script src="js/waypoints.js"></script> -->
     <script src="js/jquery.fittext.js"></script>

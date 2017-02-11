@@ -9,382 +9,51 @@
                 var strings = {
                     title: "Building an Initial Theory of Task Interdependence in Software Development Teams: A Case Study",
                     subtitle: "This research investigate the perception of the individuals in a software development team about task interdependence and their impacts on teamwork dynamics, as well as to propose an initial theory that explains the phenomenon.",
-                    aboutMeEducation: "MSc candidate in Computer Science at CIn - UFPE, BSc in Information Systems at University of Pernambuco (UPE - 2011) and Electronics Technician at the National Service for Industrial Training (SENAI - 2006).",
-                    address: "Recife, Pernambuco - Brazil",
-                    email: "vlo2@cin.ufpe.br",
-                    ufpe: {
-                        imgUrl : "images/logoufpe.jpg",
-                        name: "Federal University of Pernambuco (UFPE)",
-                        role: "MSc in Computer Science",
-                        period: "In Progress",
-                        description: "Master Degree in Computer Science. Subfields of study: Software Engineering, Mobile Applications",
-                        groups: [{
-                            name: "Software Productive Group",
-                            acronym: "SPG",
-                            url: "http://twiki.cin.ufpe.br/twiki/bin/view/SPG/WebHome",
-                            imageUrl: "images/logoSPG.jpg",
-                            description: "is a research group that investigates and develops tools, techniques and processes for improving software development productivity levels without compromising software and human life quality factors. We are a multi-institutional group formed by people from the Informatics Center of the Federal University of Pernambuco, DSC/UFCG and DIMAp/UFRN."
-                        }]
-                    },
-                    upe: {
-                        imgUrl : "images/logoupe.jpg",
-                        name: "University of Pernambuco (UPE)",
-                        role: "BSc in Information Systems",
-                        period: "December 2011",
-                        description: "The final paper of the course sets out the key technical concepts and architectures of the Brazilian Digital Television System (SBTVD). In addition, we present the programming languages and development environments, emphasizing the preparation of a foundation for the implementation of an interactive application using declarative subsystem Ginga-NCL, which will serve to assess the knowledge of educational program viewers by answering of a questionnaire about the topic involved."
-                    },
-                    senai: {
-                        imgUrl : "images/logosenai.jpg",
-                        name: "National Service for Industrial Training (SENAI)",
-                        role: "Tech in Electronics",
-                        period: "December 2006",
-                        description: "Electronics technician course"
-                    },
-                    umc: {
-                        imgUrl : "images/logoumc.jpg",
-                        name: "Upper Madison College",
-                        role: "ESL - English as a Second Language",
-                        period: "October 2012",
-                        description: "18 weeks of full-time Language Course, completing a 24 weeks exchange"
-                    },
-                    scrum_certificate: {
-                        imgUrl : "images/logocsm.png",
-                        name: "Certified ScrumMaster",
-                        role: "Scrum Alliance - 000400666",
-                        period: "Until March 2017",
-                        description: "A Certified ScrumMaster helps project teams properly use Scrum, increasing the likelihood of the project's overall success. CSMs understand Scrum values, practices, and applications and provide a level of knowledge and expertise above and beyond that of typical project managers. CSMs act as servant leaders, helping the rest of the Scrum team work together and learn the Scrum framework. CSMs also protect the team from both internal and external distractions"
-                    },
-                    c_sharp_certificate: {
-                        imgUrl : "images/logomicrosoft.jpg",
-                        name: "Programming in C# Specialist",
-                        role: "Microsoft - F108-2395",
-                        period: "No expiration",
-                        description: "Microsoft Exam 70-483"
-                    },
-                    mcp_certificate: {
-                        imgUrl : "images/logomicrosoft.jpg",
-                        name: "Microsoft Certified Professional",
-                        role: "Microsoft - F108-2395",
-                        period: "No expiration",
-                        description: "Microsoft Certified Professional (MCP) is a certification that validates the professional developer and technical expertise IT developer with rigorous testing, approved and recognized by the industry. MCP exams cover a wide range of products, technologies and Microsoft solutions."
-                    },
-                    facilit: {
-                        imgUrl : "images/logofacilit.jpg",
-                        name: "Facilit Tecnologia",
-                        role: "Software Developer",
-                        period: "May 2013 - Current",
-                        description: "Software Developer of Java Web and mobile applications (Android, Windows 8/Phone), having used C#, Javascript and many other technologies in different projects, and also performing the role of Scrum Master."
-                    },
-                    skills_plp: "Programming Languages and Platforms:",
-                    skills_plp1: "Java EE / Android, C#, Javascript (Good or better);",
-                    skills_plp2: "SQL, NCL, Lua (Regular);",
-                    skills_plp3: "Objective C, Swift (Basic or less)",
-                    skills_experience: "Experience in:",
-                    skills_experience_array: [{
-                        text: "Mobile Development: Android, Windows Phone/8, IOs;"
-                    }, {
-                        text: "RDBMS: MySQL, PostgreSQL, MongoDB;"
-                    }, {
-                        text: "Application Servers and web containers: JBOSS e Tomcat;"
-                    }, {
-                        text: "IDE: Eclipse, Android Studio, IntelliJ IDEA, Visual Studio, NetBeans;"
-                    }, {
-                        text: "Frameworks, API’s, General Applications: AngularJS, jQuery, NodeJs, ExpressJS, Struts, Spring, Liferay Portal;"
-                    }, {
-                        text: "CVS: SVN, Git"
+                    authors : [{
+                        name: "George Marsicano Corrêa",
+                        resume: "",
+                        address: "",
+                        email: "gmc3@cin.ufpe.br",
+                        profileImgUrl : "images/george.jpg",
+                        personalUrl : "http://www.cin.ufpe.br/~gmc3/"
+                    },{
+                        name: "Victor Laerte de Oliveira",
+                        resume: "MSc candidate in Computer Science at CIn - UFPE - ",
+                        address: "Recife, Pernambuco - Brazil",
+                        email: "vlo2@cin.ufpe.br",
+                        profileImgUrl : "images/profile.jpg",
+                        personalUrl : "www.victorlaerte.com"
+                    },{
+                        name: "",
+                        resume: "",
+                        address: "",
+                        email: "",
+                        profileImgUrl : "",
+                        personalUrl : ""
+                    },{
+                        name: "Fabio Q. B. da Silva",
+                        resume: "Associate Professor at UFPE - ",
+                        address: "Recife, Pernambuco - Brazil",
+                        email: "fabio@cin.ufpe.br",
+                        profileImgUrl : "images/fabio.png",
+                        personalUrl : "http://www.cin.ufpe.br/~fabio/Fabio_Silvas_Website/About_Me.html"
                     }],
-                    skills_and_recommendations: "Skills and Recommendations",
-                    skills_section_description: "In this section all data were collected from my Linkedin's profile, and it's based on number of recomendations. We know it can not show all the reality, but I belive it can show a little bit more about what I've done based in recomendations",
-                    linkedin_skills: [{
-                        votes: 29,
-                        skill: "Scrum"
-                    }, {
-                        votes: 28,
-                        skill: "JavaScript"
-                    }, {
-                        votes: 26,
-                        skill: "SQL"
-                    }, {
-                        votes: 25,
-                        skill: "Java"
-                    }, {
-                        votes: 23,
-                        skill: "Android"
-                    }, {
-                        votes: 23,
-                        skill: "JQuery"
-                    }, {
-                        votes: 19,
-                        skill: "Java Enterprise Edition"
-                    }, {
-                        votes: 18,
-                        skill: "Java software development"
-                    }, {
-                        votes: 18,
-                        skill: "C#"
-                    }, {
-                        votes: 17,
-                        skill: "Eclipse"
-                    }, {
-                        votes: 14,
-                        skill: "Subversion"
-                    }, {
-                        votes: 12,
-                        skill: "Windows Phone"
-                    }, {
-                        votes: 12,
-                        skill: "Tomcat"
-                    }, {
-                        votes: 10,
-                        skill: "Windows software development"
-                    }, {
-                        votes: 10,
-                        skill: "JBoss Application Server"
-                    }, {
-                        votes: 11,
-                        skill: "Apache Tomcat"
-                    }, {
-                        votes: 10,
-                        skill: "Servidor de Aplicação JBoss"
-                    }, {
-                        votes: 10,
-                        skill: "Microsoft Visual Studio"
-                    }, {
-                        votes: 8,
-                        skill: "Digital TV"
-                    }, {
-                        votes: 8,
-                        skill: "NetBeans"
-                    }, {
-                        votes: 7,
-                        skill: "AngularJS"
-                    }, {
-                        votes: 7,
-                        skill: "Lua"
-                    }, {
-                        votes: 5,
-                        skill: "Visual Studio"
-                    }, {
-                        votes: 5,
-                        skill: "Git"
-                    }, {
-                        votes: 3,
-                        skill: "Node.js"
-                    }, {
-                        votes: 3,
-                        skill: "GitHub"
-                    }, {
-                        votes: 2,
-                        skill: "MongoDB"
+                    research: {
+                        name: "Building an Initial Theory of Task Interdependence in Software Development Teams: A Case Study",
+                        conference_jornal: "Conference or Jornal here",
+                        period: "This article has not been published yet",
+                        abstract: "Context: Task interdependence is one of the social characteristics of work design, which is related to some authors to the level of interaction between team members and their results. In software engineering, work is strongly team-based. In recent years, more research has been conducted with the aim of investigating the interactions between people and teamwork in software engineering. However, few initiatives are associated with work design, especially related to task interdependence in software engineering. Goal: Investigate the perception of the individuals in a software development team about task interdependence and their impacts on teamwork dynamics, as well as to propose an initial theory that explains the phenomenon. Method: We investigated a team of implementers from a Brazilian software development company. For data collection, four interviews were conducted. Qualitative coding techniques were used to analyze and synthesize our findings. In addition, we have the support of an analytical framework built at the beginning of the research. At the end, we checked our results with the literature. Results: Task interdependence increases the need for information sharing and synchronization of tasks, favors the creation of an environment of redundancy of knowledge and mutual help, and is moderated by interpersonal relationship, sense of belonging, and individual skills and abilities, favoring the generation of better results in a software development teams. Conclusion: Task interdependence is an important practice and an essential and impacting factor in the teamwork dynamics, which enhances the performance of the software development team. However, it is necessary that managers and professionals remain attentive to their antecedents and moderators, so that it is possible to boost the results of the teams.",
+                        keywords: "task interdependence, work design, software development teams, human factors, qualitative research",
+                        citation: "PUT CITATION HERE"
+                    },
+                    acknowledgments: [{
+                        acknowledgment: "Fabio Q. B. da Silva holds a research grant from CNPq #314523/2009-0.",
                     }],
-                    last_updated: "Last updated at 20/12/2016",
-                    portfolios: [{
-                        closed: true,
-                        title: "Strategic Monitoring Panel of the Governo do Rio Grande do Norte",
-                        description: "Strategic Monitoring Panel of the Governo do Rio Grande do Norte, july 2016",
-                        imgUrl: "images/portfolio/painel_rn.jpg",
-                        modalImgUrl: "images/portfolio/modals/painel_rn.jpg",
-                        url: "http://www.rn.gov.br/Conteudo.asp?TRAN=ITEM&TARG=131472&ACT&PAGE&PARM&LBL=NOT%C3%8DCIA",
-                        tags: [{
-                            name: "java"
-                        }, {
-                            name: "javascript"
-                        }]
-                    }, {
-                        closed: true,
-                        title: "Strategic Monitoring Panel of the National Ministry of Integration for the Water for All Program - BR",
-                        description: "Strategic Monitoring Panel of the National Ministry of Integration for the Water for All Program, july 2014",
-                        imgUrl: "images/portfolio/painel_apt.jpg",
-                        modalImgUrl: "images/portfolio/modals/painel_apt.jpg",
-                        url: "http://painel.mi.gov.br/web/agua-para-todos/login",
-                        tags: [{
-                            name: "java"
-                        }, {
-                            name: "javascript"
-                        }]
-                    }, {
-                        closed: true,
-                        title: "Strategic Monitoring Panel of the National Ministry of Integration for the Project Integrao do São di Francisco (PISF)- BR",
-                        description: "Strategic Monitoring Panel of the National Ministry of Integration for the Project Integrao do São di Francisco (PISF), april 2014",
-                        imgUrl: "images/portfolio/painel_pisf.jpg",
-                        modalImgUrl: "images/portfolio/modals/painel_pisf.jpg",
-                        url: "http://pisf.mi.gov.br",
-                        tags: [{
-                            name: "java"
-                        }, {
-                            name: "javascript"
-                        }]
-                    }, {
-                        closed: true,
-                        title: "Strategic Monitoring Panel of the Governo de Pernambuco - BR",
-                        description: "Strategic Monitoring Panel of the Governo de Pernambuco, november 2013",
-                        imgUrl: "images/portfolio/painel_govpe.jpg",
-                        modalImgUrl: "images/portfolio/modals/painel_govpe.jpg",
-                        url: "http://www.paineldecontrole.pe.gov.br",
-                        tags: [{
-                            name: "java"
-                        }, {
-                            name: "javascript"
-                        }]
-                    }, {
-                        closed: true,
-                        title: "Strategic Monitoring Panel of the National Ministry of Integration - BR",
-                        description: "Strategic Monitoring Panel of the National Ministry of Integration, november 2013",
-                        imgUrl: "images/portfolio/painel_mi.jpg",
-                        modalImgUrl: "images/portfolio/modals/painel_mi.jpg",
-                        url: "http://painel.mi.gov.br",
-                        tags: [{
-                            name: "java"
-                        }, {
-                            name: "javascript"
-                        }]
-                    }, {
-                        closed: true,
-                        title: "Target App for Windows Store",
-                        description: "This application aims to access the strategic planning of an institution that uses the Target management platform enables you to navigate so offline Objectives and Strategic Actions, with its detail: graphics, schedule, photos, indicators, maps, etc.",
-                        imgUrl: "images/portfolio/tgapp_windows.jpg",
-                        modalImgUrl: "images/portfolio/modals/tgapp_windows.jpg",
-                        url: "http://www.microsoft.com/en-us/store/p/target-app/9wzdncrdc3k1",
-                        tags: [{
-                            name: "C#"
-                        }]
-                    }, {
-                        closed: true,
-                        title: "Target App for Android",
-                        description: "This application aims to access the strategic planning of an institution that uses the Target management platform enables you to navigate so offline Objectives and Strategic Actions, with its detail: graphics, schedule, photos, indicators, maps, etc.",
-                        imgUrl: "images/portfolio/tgapp_android.png",
-                        modalImgUrl: "images/portfolio/modals/tgapp_android.jpg",
-                        url: "http://play.google.com/store/apps/details?id=br.com.facilit.target.app.android&hl=pt-br",
-                        tags: [{
-                            name: "java"
-                        }, {
-                            name: "android"
-                        }]
-                    }, {
-                        closed: true,
-                        title: "Na Onda",
-                        description: "Na Onda was designed to display information about the wave forecast for surfers scattered in the four corners of Brazil. All forecast information is provided by CPTEC / INPE",
-                        imgUrl: "images/portfolio/naonda.png",
-                        modalImgUrl: "images/portfolio/modals/naonda.jpg",
-                        url: "http://play.google.com/store/apps/details?id=com.victorlaerte.na_onda&hl=pt-br",
-                        tags: [{
-                            name: "java"
-                        }, {
-                            name: "android"
-                        }]
-                    }, {
-                        closed: true,
-                        title: "Safadômetro",
-                        description: "Inspired by the music of singer Wesley Safadão in this application you can calculate your percentage of angel and vagabond and share it with your friends.",
-                        imgUrl: "images/portfolio/safadometro.png",
-                        modalImgUrl: "images/portfolio/modals/safadometro.png",
-                        url: "https://play.google.com/store/apps/details?id=com.victorlaerte.safadometro&hl=pt_BR",
-                        tags: [{
-                            name: "java"
-                        }, {
-                            name: "android"
-                        }]
-                    }, {
-                        closed: true,
-                        title: "BeerJs - Recife",
-                        description: "A community to bring together JavaScript Beer lovers in the world's major cities",
-                        imgUrl: "images/portfolio/beerjs.png",
-                        modalImgUrl: "images/portfolio/modals/beerjs.png",
-                        url: "https://beerjs.github.io/recife/",
-                        tags: [{
-                            name: "entertainment"
-                        }, {
-                            name: "javascript"
-                        }]
-                    }],
-                    quotes: [{
-                        quote: "“There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult.”",
-                        author: "C.A.R. Hoare (British computer scientist, winner of the 1980 Turing Award)"
-                    }, {
-                        quote: "“Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.”",
-                        author: "Linus Torvalds (Finnish American, software engineer and hacker, principal force behind the development of the Linux kernel)"
-                    }, {
-                        quote: "“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”",
-                        author: "Martin Fowler (author and speaker on software development)"
-                    }, {
-                        quote: "“Good code is its own best documentation. As you’re about to add a comment, ask yourself, ‘How can I improve the code so that this comment isn’t needed?'”",
-                        author: "Steve McConnell (author of many software engineering books including “Code Complete”)"
-                    }, {
-                        quote: "“One of my most productive days was throwing away 1000 lines of code.”",
-                        author: "Ken Thompson (computer scientist, early developer of UNIX OS)"
-                    }, {
-                        quote: "“Decision making often involves a tradeoff between effort and accuracy: The strategies that more often lead to the correct choice most of the time also require more effort and time.”",
-                        author: "Carsten de Dreu (Professor of Psychology at Leiden University, Behavioral Economics at the University of Amsterdam and member of the Royal Netherlands Academy of Arts and Sciences)"
-                    }],
-                    testimonials: [{
-                        testimonial: "Victor is smart, proactive has is a multitasker. Technically versatile, and also a team player. I'm sure he would be a great asset to any company.",
-                        author: "Carlos Brandão Jr (Scrum Master at Liferay, Inc)",
-                        info: "October 20, 2016 from Linkedin — Carlos supervised Victor Laerte at Facilit Tecnologia"
-                    }, {
-                        testimonial: "Victor is one of the best problem-solvers I have ever worked with. During the time I've spent with him, he demonstrated expertise in his area and makes great decisions as Scrum Master, especially under pressure. I would gladly certify his skills in Software Development (Web and Mobile apps) from the many projects we've worked together.",
-                        author: "Maxwell Francisco (Web Developer at Urban Insight)",
-                        info: "October 18, 2016 from Linkedin — Maxwell worked directly with Victor Laerte at Facilit Technology"
-                    }, {
-                        testimonial: "Victor is a great, experienced workmate and friend, talented and easy to work with. He has great technical skills and always willing to learn new technologies and practices (both academical and professional). He's willing to help the workmates and not afraid to work on challenging projects. He also gave great contributions to our internal processes in the company, such as adopt GitHub, Jenkins and other tools, which demonstrates interest to the company and its team, proactivity, out-of-the-box thinking and updated with best practices. He sure was a great addition to our team and will be anywhere he works. ",
-                        author: "Everson Veríssimo (Developer at Facilit Tecnologia)",
-                        info: "October 17, 2016 from Linkedin — Everson worked directly with Victor Laerte at Facilit Tecnologia"
-                    }, {
-                        testimonial: "We worked together by few years and I can say that Victor is one of the best developers who have had the opportunity to collaborate. Proactive, studious, committed to constantly improve their skills and always with strong and relevant opinions, whether or not on technical issues. As Scrum Master, showed one of his most admirable traits: being a good leader, fair and always enhancing the team work, resolving conflicts and ensuring delivering value to our product. Certainly one of the IT professionals that every company seeks and who would like to have another opportunity to work. I can't see a different future for Victor as well as great success.",
-                        author: "Jordana Morais (Senior UX Designer & Front-end at Facilit Tecnologia)",
-                        info: "September 27, 2016 from Linkedin — Jordana worked directly with Victor Laerte at Facilit Tecnologia"
-                    }, {
-                        testimonial: "Victor is a very talented and disciplined Software Engineer. Always working with a pro-active attitude he is able to help his team achieving their goals. He is definitely a good resource for any IT company as he learns fast and has compromise and ownership to his work. His skills range from an excellent sense of team work to technical skills such as widely used programming languages: Java, JavaScript and C#.",
-                        author: "Thiago Andrade (Full Stack Engineer at Crossover for Work)",
-                        info: "December 27, 2016 from Linkedin — Thiago supervised Victor Laerte at Facilit Tecnologia"
-                    }, {
-                        testimonial: "I had the luck to work with Victor side by side, we both worked on Facilit's mobile application. It always amazed me the speed which Victor was able to deliver features, while constantly keeping up super code quality. Perhaps one of the most valuable traits of good developers is one's ability to turn complexity into simplicity, and that's why Victor was able to always deliver so rapidly, he repeatedly figured out the most efficient way to accomplish his goals. I also really admired Victor's care to user interfaces, they were always so responsive and fluid, resulting in a great user experience.",
-                        author: "João Neves (Senior iOS Developer at Salesforce)",
-                        info: "December 20, 2016 from Linkedin — João worked directly with Victor Laerte at Facilit Tecnologia"
-                    }],
-                    academicPubArray: [{
-                        category: "Bachelor's Thesis",
-                        items: [{
-                            language: "pt-BR",
-                            title: "TV Digital no Brasil: Uma Metodologia Prática para o Desenvolvimento de Aplicações Interativas Utilizando Ginga-NCL",
-                            link: "doc/tcc.pdf",
-                            yearAndLocation: "2011 at University of Pernambuco"
-                        }],
-
-                    }],
-                    nonAcademicPubArray: [{
-                        category: "Blog's most viewed posts",
-                        items: [{
-                                language: "pt-BR",
-                                title: "JavaFX AsyncTask: Um jeito fácil de manusear threads com JavaFX",
-                                link: "http://mycyber-space.blogspot.com.br/2014/05/javafx-asynctask.html",
-                                yearAndLocation: "2014"
-                            }, {
-                                language: "pt-BR",
-                                title: "Android, IOS: como detectar e corrigir crashes do meu aplicativo? Crashlytics",
-                                link: "http://mycyber-space.blogspot.com.br/2014/05/android-ios-como-detectar-e-corrigir.html",
-                                yearAndLocation: "2014"
-                            }, {
-                                language: "pt-BR",
-                                title: "Android: Como fazer para as imagens de sua aplicação não serem exibidas na galeria?",
-                                link: "http://mycyber-space.blogspot.com.br/2014/05/android-como-fazer-para-as-imagens-de.html",
-                                yearAndLocation: "2014"
-                            },
-
-                        ],
-
-                    }],
-
                 }
 
                 this.get = function (key) {
 
                     return strings[key];
-                };
-
-                this.getRandom = function (key) {
-
-                    var random = strings[key][Math.floor(Math.random() * strings[key].length)];
-                    return random;
                 };
 
             }
