@@ -1,3 +1,3 @@
-# victorlaerte.github.io
+# initial-theory-of-task-interdependence
 
-www.victorlaerte.com
+www.victorlaerte.com/initial-theory-of-task-interdependence
