@@ -8,21 +8,21 @@
 
                 var strings = {
                     title: "Building an Initial Theory of Task Interdependence in Software Development Teams: A Case Study",
-                    subtitle: "This research investigate the perception of the individuals in a software development team about task interdependence and their impacts on teamwork dynamics, as well as to propose an initial theory that explains the phenomenon.",
+                    subtitle: "This research investigate the perception of individuals in a software development team about task interdependence and their impacts on teamwork dynamics, as well as to propose an initial theory that explains the phenomenon.",
                     authors : [{
                         name: "George Marsicano Corrêa",
-                        resume: "",
-                        address: "",
+                        resume: "Doctoral Student at Cin - UFPE and Professor at UnB - ",
+                        address: "Brasília, DF - Brazil",
                         email: "gmc3@cin.ufpe.br",
                         profileImgUrl : "images/george.jpg",
                         personalUrl : "http://www.cin.ufpe.br/~gmc3/"
                     },{
                         name: "Victor Laerte de Oliveira",
                         resume: "MSc candidate in Computer Science at CIn - UFPE - ",
-                        address: "Recife, Pernambuco - Brazil",
+                        address: "Recife, PE - Brazil",
                         email: "vlo2@cin.ufpe.br",
                         profileImgUrl : "images/profile.jpg",
-                        personalUrl : "www.victorlaerte.com"
+                        personalUrl : "http://www.victorlaerte.com"
                     },{
                         name: "",
                         resume: "",
@@ -33,7 +33,7 @@
                     },{
                         name: "Fabio Q. B. da Silva",
                         resume: "Associate Professor at UFPE - ",
-                        address: "Recife, Pernambuco - Brazil",
+                        address: "Recife, PE - Brazil",
                         email: "fabio@cin.ufpe.br",
                         profileImgUrl : "images/fabio.png",
                         personalUrl : "http://www.cin.ufpe.br/~fabio/Fabio_Silvas_Website/About_Me.html"
