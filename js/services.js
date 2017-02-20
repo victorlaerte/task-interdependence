@@ -15,7 +15,7 @@
                         address: "Brasília, DF - Brazil",
                         email: "gmc3@cin.ufpe.br",
                         profileImgUrl : "images/george.jpg",
-                        personalUrl : "http://www.cin.ufpe.br/~gmc3/"
+                        personalUrl : "http://lattes.cnpq.br/2317804591146328"
                     },{
                         name: "Victor Laerte de Oliveira",
                         resume: "MSc candidate in Computer Science at CIn - UFPE - ",
@@ -24,12 +24,12 @@
                         profileImgUrl : "images/profile.jpg",
                         personalUrl : "http://www.victorlaerte.com"
                     },{
-                        name: "",
-                        resume: "",
-                        address: "",
-                        email: "",
-                        profileImgUrl : "",
-                        personalUrl : ""
+                        name: "Leila Maria Rodrigues de Sousa Mariz",
+                        resume: "Doctoral Student at Cin - UFPE",
+                        address: "Recife, PE - Brazil",
+                        email: "leilamariz@yahoo.com.br",
+                        profileImgUrl : "images/leila.png",
+                        personalUrl : "http://lattes.cnpq.br/4301517875688614"
                     },{
                         name: "Fabio Q. B. da Silva",
                         resume: "Associate Professor at UFPE - ",
