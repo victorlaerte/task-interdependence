@@ -25,7 +25,7 @@
                         personalUrl : "http://www.victorlaerte.com"
                     },{
                         name: "Leila Maria Rodrigues de Sousa Mariz",
-                        resume: "Doctoral Student at Cin - UFPE",
+                        resume: "Doctoral Student at Cin - UFPE - ",
                         address: "Recife, PE - Brazil",
                         email: "leilamariz@yahoo.com.br",
                         profileImgUrl : "images/leila.png",
