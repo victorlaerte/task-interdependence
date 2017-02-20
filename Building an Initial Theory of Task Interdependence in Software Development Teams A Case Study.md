@@ -464,7 +464,9 @@ _" __A gente se junta, discute como funciona e qual é o comportamento do framew
 
 BY 'Victor Oliveira'
 ON '2017-02-09T22:51:00'VO
-NOTE: 'Relations ou Relationships?']
+NOTE: 'Relations ou Relationships?'
+NOTE: 'TROCAR POR RELATIONSHIPS'
+NOTE: '']
 **(IR)** between development team members and external agents moderates the actions of information sharing, mutual help, and knowledge redundancy. With regard to the relationships among team members, research results points to people with close relations of friendship and partnership.
 
 _"__(...) a gente tem uma integração muito boa, eu conheço bem o pessoal e me considero amigo até fora do ambiente de trabalho, é até às vezes difícil saber separar isso... gosto bastante da minha equipe e a gente tem uma ótima relação (...). Acho que isso ajuda bastante no dia-a-dia quando precisamos interagir e trocar informações"._
@@ -485,7 +487,8 @@ Acting closely to Interpersonal Relations, the **Sense of Belonging (FB** )
 BY 'Victor Oliveira'
 ON '2017-02-11T12:48:00'VO
 NOTE: 'Sentimento de Pertencimento'
-NOTE: 'Pode ser também feeling of belongig']
+NOTE: 'Pode ser também feeling of belongig'
+NOTE: 'TROCAR POR FEELING OF BELONGIG']
 , emerges as an individual construct, from which each of research participants perceive their relationship with the team, feeling part and believing in the value of teamwork. This construct is linked to the internal team dynamics. In this research it was possible to verify a strong feeling of belonging of team among its members.
 
 _  __"__ Me sinto muito parte do time (...)"._
@@ -645,23 +648,40 @@ Table 5. Constructs, Propositions, Explanations and Scope of Task Interdependenc
 
 # I.Literature Enfolding
 
-Diante do que foi identificado em nosso estudo, fomos à literatura com vistas a comparar nossas evidências aos dados apresentados em trabalhos correlatos, com vistas a identificar similaridades e conflitos.
+Faced with what was identified in our study, we went to the literature in order to compare our evidence to the data presented in related works, trying to to identify similarities and conflicts.
 
-De maneira similar ao que é apresentado por Katz-Navon e Erez [11], nosso trabalho aponta que o nível de interação entre os membros da equipe é afetado pela interdependência de tarefas. Ou seja, um maior nível de interdependência entre as tarefas, aumenta a necessidade de interação entre os membros da equipe. Complementarmente, nosso trabalho indica, também, a necessidade de um aumento na interação da equipe de desenvolvimento com os agentes externos a ela.
+In a similar way to that presented by Katz-Navon and Erez [11], Our research points out that the level of interaction among team members is affected by task interdependence, i.e. a greater level of interdependence between tasks increases the need for interaction among team members. In addition, our research also indicates the need for an increase in the interaction of the development team with agents external to it.
 
-Outra similaridade identificada no estudo de Katz-Navon e Erez [11] refere-se à relação entre o desempenho da equipe e seus resultados, a partir a presença de um alto nível de interdependência. Ou seja, os resultados em equipe estão associados ao alto nível de interdependência de tarefas, o qual influencia na interação entre os membros da equipe, e na construção de um sentimento de equipe. Ao contrário, um baixo nível de interdependência favorece o desempenho individual [11]. Em nosso estudo, as relações identificadas apontam em direção similar, ao assumir que a interdependência afeta positivamente a necessidade de interação entre os membros da equipe e seus resultados coletivos.
+Another similarity identified by Katz-Navon and Erez [11] refers to the relationship between the team's performance and its results, based on the presence of a high level of interdependence, i.e. team results are associated with the high level of task interdependence, which influences the interaction between team members, and the building of team feeling
+#
+[ANNOTATION:
 
-Cabe ressaltar que, neste trabalho a interação entre os integrantes da equipe de desenvolvimento está vinculada primariamente, aos processos de compartilhamento de informações (mediado pelo relacionamento interpessoal) e sincronismo de tarefas, bem como ao favorecimento da criação de um ambiente de redundância de conhecimento e ajuda mútua (mediados pelo sentimento de equipe, competência e habilidades individuais, e pelo relacionamento interpessoal).
 
-A partir do que é apresentado por Taggar e Haines III [21] e Adams [24], nossas descobertas sobre o cuidado e atenção que a equipe possui em garantir a aplicação de normas e padrões de desenvolvimento, no sentido de facilitar o trabalho de todos, podem relacionar-se a que os autores denominam de norma de reciprocidade. Onde, essa norma é refletida na significância entre a interdependência iniciada e recebida: _"Quanto mais eu recebo, quanto mais eu dou"_. Em nosso estudo, os resultados indicam um movimento de reciprocidade entre os membros da equipe facilitando e garantindo a aplicação das normas e padrões, e melhorando os resultados coletivos. Esse contexto pode estar, também, em alinhamento ao que é apresentado por Acuña, Gómez e Juristo [20], ao tratar a qualidade de produto, satisfação e interdependência de tarefas.
+BY 'Victor Oliveira'
+ON '2017-02-19T21:28:00'VO
+NOTE: 'Sense of team belonging?'
+NOTE: '']
+. In the other hand, the low level of interdependence favors individual performance [11]. In our study, identified relations point in a similar direction by assuming that interdependence positively affects the need for interaction between team members and their collective outcomes.
 
-Em nosso trabalho identificamos uma relação diferente do que é apresentado por Johnson e Johnson [25] ao apresentar o relacionamento interpessoal como sendo um dos benefícios da interdependência. Nossas descobertas apontaram o relacionamento interpessoal como sendo mediador dos processos de interação (compartilhamento de informações, redundância de conhecimento e ajuda mútua). Ou seja, o relacionamento interpessoal facilitaria a equipe a lidar com a interdependência, e não, a interdependência ajudaria a melhorar o relacionamento interpessoal entre os membros da equipe. Um fator que não surge de maneira explícita neste trabalho, mas que pode estar gerando benefícios ao relacionamento interpessoal entre os membros da equipe é a confiança, a qual de acordo com Jong et. al. [10] favorece com que os membros estejam mais disponíveis para dar e receber ajuda dos colegas.
+It should be emphasized that, in this reasearch, the interaction between the development team members is primarily related to the processes of information sharing (mediated by interpersonal relations) and task synchronization, as well as favoring the creation of an environment of knowledge redundancy and mutual help (mediated by feeling of team belonging, competence and individual skills, and by interpersonal relations).
 
-Ainda sobre o relacionamento interpessoal, nossas descobertas não identificaram de maneira explícita o surgimento de conflitos ou diferenças de opiniões. De acordo com De Dreu [26] a percepção da equipe sobre a interdependência de resultados cooperativos ajuda que eles lidem melhor com as diferenças de opinião. Contudo, devido ao bom nível de relacionamento interpessoal entre os membros da equipe é possível que, tal construto também esteja influenciando na falta de indícios sobre conflitos ou diferenças de opiniões.
+Starting from what is presented by Taggar and Haines III [21] and Adams [24], our findings about the care and attention that the team has in ensuring the application of norms and development standards, in order to facilitate the work of all, can be related to what the authors call the norm of reciprocity. This norm is reflected in the significance between received and initiated task interdependence: _"The more I receive, more I give"_. In our study, the results indicate a reciprocal movement among team members facilitating and ensuring the application of norms and standards, and improving collective outcomes. This context may also be related with what is presented by Acuña, Gómez and Juristo [20], when dealing with product quality, satisfaction and task interdependence.
 
-No que se refere à criação de um ambiente de redundância de conhecimento, a partir da presença da interdependência de tarefas, nossas descobertas estão alinhadas ao que é apresentado por Cannon-Bowers e Salas [6] ao afirmarem que, quando a tarefa da equipe requer alta interdependência entre seus membros, eles têm a oportunidade de desenvolver modelos mentais compartilhados e usar esse conhecimento compartilhado para orientar seu comportamento e melhorar a performance da equipe.
+In our research, we have identified a relationship different from what is presented by Johnson and Johnson [25] presenting the interpersonal relationship as one of the benefits of interdependence. Our findings have pointed to interpersonal relations as mediating processes of interaction (information sharing, knowledge redundancy and mutual help), i.e. the interpersonal relationship would make it easier for the team to deal with interdependence, not interdependence would help improve interpersonal relationships among team members. A factor that does not arise explicitly in this paper, but which may be generating benefits to the interpersonal relationship among team members is trust, which according to Jong et. al. [10] favors making members more available to give and receive help from colleagues.
 
-Um fator a ser destacado refere-se ao sentimento de pertencimento (e, na crença do trabalho em equipe) que os membros da equipe relatam no que diz respeito a se sentirem completamente parte. De acordo com Taggar e Haines III [11], quanto mais isso acontece, maior a possibilidade de afetar diretamente as atividades dos pares. Fazendo com que o trabalho coletivo seja ainda mais valioso. Ao contrário, daqueles que não se sentem parte da equipe e não acreditam no seu valor. Nesse cenário, o trabalho individual tende a ser mais valorizado [21].
+Still on interpersonal relationships, our findings did not explicitly identify the emergence of conflicts or differences of opinion. According to De Dreu [26] the team's perception of the interdependence of cooperative outcomes, helps them to deal better with differences of opinion. However, due to the good level of interpersonal relationship among team members, it is possible that such construct is also influencing the lack of evidence about conflicts or differences of opinion.
+
+Regarding the creation of a knowledge redundancy environment, from the presence of task interdependence, our findings are related with what is presented by Cannon-Bowers and Salas [6] when they assert that when the team task requires high interdependence among its members, they have the opportunity to develop shared mental models and use this shared knowledge to guide their behavior and improve team performance.
+
+A point that needs to be highlighted relates to the sense of belonging (and, in the belief of teamwork) that team members report in regards to feeling completely part of it. According to Taggar and Haines III[11], the more this happens, the greater is the possibility of directly affecting peers activities, making collective work even more valuable. On other hand, those who do not feel part of the team and do not believe in its value, individual work tends to be more valued[21]
+#
+[ANNOTATION:
+
+
+BY 'Victor Oliveira'
+ON '2017-02-19T22:21:00'VO
+NOTE: 'Revisar esse parágrafo, texto em português estava confuso.']
+.
 
 Sobre a interdependência de tarefas e os resultados e sentimentos gerados na equipe, Van der Ven et. al. [36] demonstraram que a relação entre a interdependência de tarefas e as respostas afetivas pode depender do grau de interdependência de resultados em nível de equipe. Nesse caso, estando à interdependência positivamente relacionada com a satisfação do trabalho e da equipe. Em nosso estudo, os resultados indicam que os sentimentos da equipe podem impactar na forma como ela trata a interdependência de tarefas, bem como na obtenção de novos resultados. Neste sentido, diante dos sentimentos e resultados gerados, é possível que a equipe (ou indivíduo) tenda a ajustar o grau de interdependência de tarefa, às suas necessidades.
 
