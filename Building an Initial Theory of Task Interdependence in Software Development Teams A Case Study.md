@@ -731,31 +731,38 @@ Another important factor to be highlighted is the guarantee of norms and softwar
 
 ## B.C.Future Work
 
-Esta pesquisa propôs uma teoria inicial para a interdependência de tarefas em equipes de desenvolvimento de software. A partir dela acreditamos que líderes e membros de equipe possam instrumentalizá-la no sentido de melhorar a performance coletiva. Além disso, existem várias possibilidades de pesquisas futuras no sentido de complementar nossos resultados, bem como de aumentar a validade externa do mesmo.
+This research proposed an initial theory for task interdependence in software development teams. From it we believe that leaders and team members can improve it in order to improve collective performance. In addition, there are several possibilities for future research in order to complement our results, as well as to increase the external validity.
 
-Inicialmente, uma primeira possibilidade de trabalho futuro refere-se à realização de outros estudos de caso utilizando a mesma metodologia de trabalho, com vistas a enriquecer os resultados apresentados nesta pesquisa. Entendemos que tais estudos devam ser realizados em equipes com características distintas às encontradas neste trabalho, ou seja: equipes com cinco, ou mais pessoas; diferentes níveis de relacionamentos interpessoais entre seus integrantes; diferentes níveis de sentimento de pertencimento; metodologias de trabalho distintas; etc.
+Initially, a first possibility of future work refers to the accomplishment of other case studies using the same work methodology, in order to enrich the results presented in this research. We understand that such studies should be carried out in teams with characteristics different from those found in this work, that is: teams with five or more people; different levels of interpersonal relationships among its members; different levels of feeling of belonging; different working methodologies; etc.
 
-A partir da ampliação dos resultados atuais entende-se que a realização de estudos longitudinais em diferentes equipes de desenvolvimento de software, com o objetivo de investigar a interdependência de tarefas e seus impactos na dinâmica de equipes, ao longo do tempo, servirá para dar maior consistência, bem como para aumentar o poder de generalização da teoria.
+From the extension of the current results, it is understood that the execution of longitudinal studies in different software development teams, with the objective of investigating task interdependence and their impacts on the team dynamics over time, will serve to give greater consistency, as well as to increase the generalization power of theory.
 
-Outra importante pesquisa futura está vinculada a construção de instrumentos que possibilitem a medição efetiva dos efeitos da interdependência de tarefas nos resultados de equipes de desenvolvimento de software, bem como com medições associadas ao índice de interdependência de tarefa baseado no que é proposto por Van de Ven, Delbecq e Koenig [36].
+Another important future research is the construction of instruments that allow the effective measurement of task interdependence effects in software development teams, as well as measurements associated to the index of task interdependence based on what is proposed by Van de Ven, Delbecq and Koenig [36].
 
-Com o objetivo de investigar mais profundamente alguns construtos uma pesquisa futura pode ajudar a verificar até que ponte um ambiente de ajuda mútua e redundância de conhecimento favorecem a geração de melhores resultados para a equipe, e quando começam a gerar sobrecarga individual de trabalho.
+In order to further investigate some constructs a future research can help to verify that bridging an environment of mutual help and redundancy of knowledge favor the generation of better results for the team, and when they begin to generate individual work overload.
+#
+[ANNOTATION:
 
-Por fim, outra possibilidade está associada à investigação da interdependência de tarefas, a partir da perspectiva da coesão de equipes de engenharia de software [37].
 
-# III.Conclusões
+BY 'Victor Oliveira'
+ON '2017-02-23T10:37:00'VO
+NOTE: 'Job Burnout?']
 
-Neste trabalho foram apresentados os resultados de um estudo de caso, com o objetivo de entender a percepção de desenvolvedores de software sobre a interdependência de tarefas e seus impactos na dinâmica do trabalho em equipe. Para tanto, nosso estudo foi executado em uma equipe de implementadores, de uma empresa brasileira de desenvolvimento de software, com cerca de 80 funcionários.
+Finally, another possibility is associated to the investigation of the task interdependence from the perspective of the cohesion of software engineering teams [37].
 
-Nossos resultados apontam que a interdependência de tarefas afeta a dinâmica da equipe, no sentido de promover o aumento da cooperação e interação entre seus integrantes, e favorecer o compartilhamento de informações, a redundância de conhecimento e a ajuda mútua. É importante ressaltar que os participantes apresentaram bons níveis de relacionamento interpessoal e um alto sentimento de pertencimento em equipe, o qual reforça as evidências identificadas no que se refere à satisfação de seus integrantes em obter um crescimento coletivo, mais do que o individual. Um ponto a ser melhor investigado são os sentimentos relatados pelos participantes, a partir da relação entre a interdependência de tarefas e a performance da equipe. É possível que a dificuldade individual em realizar uma tarefa, ou o seu alto nível de exigência pessoal possam fazer com sejam criadas barreiras, quanto à interdependência de tarefas no dia-a-dia da equipe.
+# III.Conclusions
 
-Foram utilizadas técnicas de pesquisa qualitativa para coletar, analisar e sintetizar os dados obtidos por meio da realização de entrevistas (gravadas e transcritas palavra a palavra). Além disso, foi construído um framework analítico para alinhar a visão dos múltiplos pesquisadores envolvidos no início do trabalho. Técnicas de codificação qualitativa foram empregadas para identificar a percepção dos indivíduos de uma equipe de desenvolvimento de software sobre a interdependência de tarefas e seus impactos na dinâmica do trabalho em equipe, bem como para construir uma teoria inicial que explica o fenômeno. Em seguida, realizamos a comparação dos nossos resultados com a literatura atual, com vistas a identificar conflitos e similaridades do trabalho, e ajudando a elevar o nível teórico do estudo.
+In this research, we presented our results aiming to understand the perception of software developers about task interdependence and their impacts on the dynamics of teamwork. To that end, our study was carried out by a team of implementers from a Brazilian software development company with about 80 employees.
 
-Dado à natureza do trabalho da engenharia de software, cognitivamente intensiva, e frequentemente executada por equipes, destaca-se o relacionamento interpessoal como importante moderador do ambiente. Em um primeiro momento, associado ao compartilhamento de informações, necessárias à construção do software, principalmente, entre equipe de desenvolvimento e cliente. Em outro instante, como potencializador e facilitador da redundância de conhecimento e ajuda mútua.
+Our results indicate that task interdependence affects team dynamics, in order to promote the increase of cooperation and interaction among its members, and to favor information sharing, redundancy of knowledge and mutual help. It is important to emphasize that the participants presented good levels of interpersonal relationship and a high sense of belonging in team, which reinforces the identified evidences regarding the satisfaction of its members in obtaining a collective growth, more than the individual. One point to be better investigated is the feelings reported by the participants, based on the relationship between task interdependence and team performance. It is possible that the individual difficulty in accomplishing a task, or the high level of personal demand, can create barriers to task interdependence in the daily life of the team.
 
-Por fim, a principal conclusão deste trabalho é que a interdependência de tarefas é uma importante prática e um fator essencial e impactante na dinâmica do trabalho em equipe. Contudo, faz-se necessário que gerentes e profissionais tenham atenção aos seus antecedentes e moderadores, os quais podem gerar impactos negativos se negligenciados, bem como potencializar os resultados, quando bem acompanhados.
+Qualitative research techniques were used to collect, analyze and synthesize data obtained through interviews (recorded and transcribed word-for-word). In addition, an analytical framework was constructed to align the point of view of the multiple researchers involved in the beginning of the work. Qualitative coding techniques were employed to identify the perception of individuals in a software development team about task interdependence and their impacts on teamwork dynamics, as well as to construct an initial theory that explains the phenomenon. Next, we compared our results with the current literature, aiming to identifying conflicts and similarities with our work, and helping to raise the theoretical level of the study.
 
-# IV.Agradecimentos
+Given the nature of the software engineering, cognitively intensive, and often performed by teams, interpersonal relationships stand out as an important moderator of the environment. At first, associated with the information sharing, necessary to the software construction, mainly between development team and client. In another instant, as a potentiating factor and facilitator of knowledge redundancy and mutual help.
+
+Finally, the main conclusion of this research is that task interdependence is an important practice and an essential and impacting factor in teamwork dynamics. However, it is necessary for managers and professionals to pay attention to their antecedents and moderators, which can generate negative impacts if neglected, as well as potentiate the results, when well accompanied.
+
+# IV.Acknowledgments
 
 Fabio Q. B. da Silva holds a research grant from CNPq #314523/2009-0.
 
@@ -798,8 +805,6 @@ References
 35. [35]Kozlowski, S. W., & Ilgen, D. R. (2006). Enhancing the effectiveness of work groups and teams. Psychological Science in the Public Interest, 7, 77–124.
 36. [36]Van de Ven, A. H., Delbecq, A. L., & Koenig Jr, R. (1976). Determinants of coordination modes within organizations. American sociological review, 322-338.
 37. [37]Gouveia, T. B. (2016). A theory on cohesion in software engineering teams (PhD Dissertation). Center for Informatics, Federal University of Pernambuco, Recife.
-
-
 
 # 1
  Development team initiates activities that affect the activities of test team.
