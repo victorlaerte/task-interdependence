@@ -6,8 +6,8 @@
     <!--- Basic Page Needs
    ================================================== -->
     <meta charset="utf-8">
-    <title>An Initial Theory of Task Interdependence in Software Development Teams</title>
-    <meta name="description" content="An Initial Theory of Task Interdependence in Software Development Teams">
+    <title>An Initial Understanding of Task Interdependence in Software Development Teams: A Case Study</title>
+    <meta name="description" content="An Initial Understanding of Task Interdependence in Software Development Teams: A Case Study">
     <meta name="author" content="Victor Oliveira">
 
     <!-- Mobile Specific Metas
@@ -53,6 +53,10 @@
 
                 <li ng-class="currentSection=='research' ? 'current' : ''" ng-click="currentSection='research'">
                     <a class="smoothscroll" href="#research">Research</a>
+                </li>
+
+                <li ng-class="currentSection=='technical-report' ? 'current' : ''" ng-click="currentSection='technical-report'">
+                    <a class="smoothscroll" href="#technical-report">Technical Report</a>
                 </li>
 
                 <li ng-class="currentSection=='acknowledgments' ? 'current' : ''" ng-click="currentSection='acknowledgments'">
@@ -128,10 +132,8 @@
     </section>
     <!-- Authors Section End-->
 
-    <!-- Resume Section -->
+    <!-- Research Section -->
     <section id="research">
-
-        <!-- Work -->
 
         <div class="row work">
 
@@ -143,15 +145,26 @@
             <!-- main-col end -->
 
         </div>
-        <!-- End Work -->
-
-        <!-- Education -->
-
     </section>
-    <!-- Resume Section End-->
+    <!-- Research Section End-->
+
+    <!-- Technical Report Section -->
+    <section id="technical-report">
+
+        <div class="row work">
+
+            <div class="columns main-col">
+
+                <ng-resume-row item="::getData('research')"></ng-resume-row>
+
+            </div>
+            <!-- main-col end -->
+
+        </div>
+    </section>
+    <!-- Technical Report Section End-->
 
     <!-- Acknowledgments Section -->
-
     <section id="acknowledgments">
 
         <div class="row">
