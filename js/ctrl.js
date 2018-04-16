@@ -34,8 +34,8 @@
 							'</p>' +
 							'<p>{{item.abstract}}</p>' +
 							'<p><b>Keywords: {{item.keywords}}</b></p>' +
-							'<p><b>Citation: {{item.citation}}</b></p>' +
-							'<a target="_blank" href="#" class="button disabled"><i class="fa fa-download"></i> Read full article</a>' +
+							'<p><b>Citation:</b> {{item.citation}}</p>' +
+							'<a target="_blank" href="http://www.chaseresearch.org/workshops/chase-2018" class="button disabled"><i class="fa fa-download"></i> Read full article</a>' +
 					 '</div>' +
 				   '</div>'
 		
