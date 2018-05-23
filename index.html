@@ -66,9 +66,14 @@
         <!-- end #nav-wrap -->
 
         <div class="row banner">
+
+            <div class="twelve columns" style="margin-top: 3%">
+                <img class="profile-pic" ng-src="images/banner.png" alt="" />
+            </div>
+
             <div class="banner-text">
+                <hr />
                 <h2 class="responsive-headline">{{::getData('title')}}</h2>
-                <br>
                 <br>
                 <h3>{{::getData('subtitle')}}</h3>
 
@@ -129,11 +134,10 @@
 
     <!-- Research Section -->
     <section id="research">
-
+            
         <div class="row work">
 
             <div class="columns main-col">
-
                 <ng-resume-row item="::getData('research')"></ng-resume-row>
 
             </div>
@@ -152,6 +156,17 @@
 
                 <h2><span class="lead">{{::item.acknowledgment}}</span></h2>
 
+                <div class="row" style="margin-top: 5%">
+
+                    <div class="five columns">
+                        <img class="profile-pic" ng-src="images/liferay.png" alt="" />
+                    </div>
+    
+                    <div class="five columns">
+                        <img class="profile-pic" ng-src="images/cnpq.png" alt="" />
+                    </div>
+
+                </div>
             </div>
 
         </div>
